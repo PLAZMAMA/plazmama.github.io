@@ -77,3 +77,14 @@
 - The **1994 Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act** set requirements for sec offender registration and notification in the United States. It also requires States to create websites that procive information on sex offenders within the state.
 - The **Sex Offender Registration and Notification Provisions(SORNA)** of the Adam Walksh Child Protection and SafetyAct of 2006 set national standards that govern which sex offenders must register and what data must be captured.
 - **Contigent work** is a job situation in which an individual does not have ana explicit or implicit contract for long-term employment.
+- **Temporary staffing firms** recruit, train, and test job seekers in a wide range of job categories and skill levels, and then assign them to clients as needed.
+- A **coemployment relationship** is one in which two emploters have actual or potential legal rights and duties with respect to the same emplotee or group of employees.
+- A **PEO** is a business entity that hires the employees of its clients and them assumes all responsibility for all human resource management functions, including administration of benefits while the client compay remain responsible for directing and controlling the daily activities of the employees.
+- The **gig economy** refers to a work enviornment in which temporary positions are common and organiztions contract with independent workers for short-term engagements.
+- An **independent contractor** is an individual who provides services to another individual or organization according to term defined in a written contract or within a verbal agreement.
+- An **H-1B** is a temporary work visa granted by the U.S. Citizenship and Immigration Services(USCIS) for people who work in specialty occupations.
+- **Outsourcing** is a long-term business arrangement in which a company contracts for services with an outside organization that has expertise in providing a specific function.
+- **Offshore outsourcing** is a form of outsourcing in which the services are provided by an organization whose employees are in a foreign country.
+- **Whistle-blowing** is an effort to attract public attention to an illegal, unethical, abusive, or dangerous act by an organization.
+- **Green computing** is concerned with the efficient and environmentally responsible design, manufacture, operation, and disposal of IT-related products
+- **Electronic Product Environmental Assessment Tool(EPEAT)** is a system that enables purchasers to evaluate, compare, and select electronic products based on 51 environmental criteria.
