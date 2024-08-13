@@ -90,4 +90,5 @@
 - **Electronic Product Environmental Assessment Tool(EPEAT)** is a system that enables purchasers to evaluate, compare, and select electronic products based on 51 environmental criteria.
 - **Virtue ethics** is an approach to ethics organized around the ideaof human flourishing and human excellence. Virtue ethics focuses on the qualities of character and patterns of living that reveal those qualities.
 - **Virtues** are the capacity to excersize qualities like kindness and self-respect. Therefore what differentiates us from one another is wether or not we developed the ability to excersize the virtue. They are revealed throught pattern of action as virues must be kept continuosly.
-- **Communitarianism** is an aproach to ethics that assumes humans exists in a state of mutual reliance. It states that individuals goal can take place only within a community.
+- **Communitarianism** is an aproach to ethics that assumes humans exists in a state of mutual reliance. It states that individuals goals can take place only within a community. While a person's goals can be different than most of the communiy it is still shaped to some degree by the community that person is a part of.
+- **Utilitarianism** is an approach to ethics that assumes humans are motivated by happiness. 
