@@ -88,7 +88,9 @@
 - **Whistle-blowing** is an effort to attract public attention to an illegal, unethical, abusive, or dangerous act by an organization.
 - **Green computing** is concerned with the efficient and environmentally responsible design, manufacture, operation, and disposal of IT-related products
 - **Electronic Product Environmental Assessment Tool(EPEAT)** is a system that enables purchasers to evaluate, compare, and select electronic products based on 51 environmental criteria.
-- **Virtue ethics** is an approach to ethics organized around the ideaof human flourishing and human excellence. Virtue ethics focuses on the qualities of character and patterns of living that reveal those qualities.
+- **Virtue ethics** is an approach to ethics organized around the idea of human flourishing and human excellence. Virtue ethics focuses on the qualities of character and patterns of living that reveal those qualities.
 - **Virtues** are the capacity to excersize qualities like kindness and self-respect. Therefore what differentiates us from one another is wether or not we developed the ability to excersize the virtue. They are revealed throught pattern of action as virues must be kept continuosly.
 - **Communitarianism** is an aproach to ethics that assumes humans exists in a state of mutual reliance. It states that individuals goals can take place only within a community. While a person's goals can be different than most of the communiy it is still shaped to some degree by the community that person is a part of.
-- **Utilitarianism** is an approach to ethics that assumes humans are motivated by happiness. 
+- **Utilitarianism** is an approach to ethics that assumes humans are motivated by happiness. It states that when we are determining how we should act, we should first consider what kinds of actions bring about the most happiness for the greatest number of people. It also focuses on the results/consequences of our actions while treating intent irrelevant.
+- **Deontology** is an ethical theory that uses rules to distinguish right from wrong. The rules should be followed without exception. Like Batman and his rule to never kill which is demonstrated by not killing the Joker even though he could even though it will probably cause more harm in the future.
+- **Relativism** states that there is not set rules as these rules change in every culture/place.
