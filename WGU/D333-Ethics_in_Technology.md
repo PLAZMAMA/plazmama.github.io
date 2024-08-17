@@ -1,4 +1,4 @@
-# D333-Ethics in Technology
+[#](#) D333-Ethics in Technology
 
 ## Notes
 - **Ethics** is a code of behavior that is defined by the group to which an individual belongs.
@@ -21,6 +21,9 @@
 - **USA Freedom Act** terminated the bulk collection of telephone metadata by the NSA. It requires that the telecommunications carriers to hold the data and respond to NSA queries for data. This act also restored authorization for roving wiretaps and the tracking of "lone wolfs".
 - The **Privacy Act** prohibits the U.S. government agencies from concealing the existance of any personal data record-keeping system.
 - The **First Amedment** protects americans rights to freedom of religion, freedom of expression, freedom to assemble peacefuly, and the right to speak anonymously.
+- The **Second Amedment** protects americans right to arm themselves with guns(basically).
+- The **Third Amedment** restricts the quartering of soldiers in private home without the owner's concent.
+- THe **Fourth Amedment** protects citizens from unreasonable searches and seizures by the government.
 - The **Communications Decency Act** aims to protect children from porn.
 - The **Child Online Protection Act** prohibits making harmful material available to minors via the internet.
 - The **Children's Internet Protection Act** requires federally financed schools and livraries to use filters to block computer access to any material considered harmful to minors.
@@ -99,8 +102,13 @@
 - **SANS Institue** is a company that offers cybersecurity training and certifications.
 - **CompTIA** is a non-profit association that issues professional certifications for the IT industry. It is also headquartered in Chicago.
 - **Smishing** is a social engineering attack that uses fake mobile text messages to trick people into downloading malware/sharing information/sending money.
-- The **Gramm-Leach-Bliley Act** requires financial institutions/financial product companies to expand their information-sharing practices to their customers and to safeguard sensitive data.
+- The **Gramm-Leach-Bliley Act(GLBA)** requires financial institutions/financial product companies to expand their information-sharing practices to their customers and to safeguard sensitive data.
 - The **Sarbanes Oxley Act** was made to help protect investors from fraudulent financial reporting by corporations. It mandated strict reforms to existing securities regulations and imposed tough new penalties on lawbreakers.
 - The **Federal Information Security Modernization Act** Codifies Department of Homeland Security(DHS) authority to administer the implementation of information security policies for non-national security federal Executive Branch systems, including providing technical assistance and deploying technologies to such systems. It also clarifies the Office of Management and Budget's (OMB) oversight authority over federal agency information security practices.
 - The **Payment Card Industry Data Security Standard (PCI DSS)** is a widely accepted set of policies and procedures intended to optimize the security of credit, debit and cash card transactions. It also protects cardholders against misuse of their personal information.
-- 
+- The **Health Insurance Protability and Accountability Act(HIPPA)** protects the privacy and security of health information and gives patients rights to their health information by establishing standards to safeguard the protected health information that the following entities and their business associates hold:
+    - Health plan
+    - Health care clearninghouse
+    - Health care provider that conducts certain health care transactions electronically
+- The **Family Educational Rights and Privacy Act** affords parents the right to access their children's education records, the right to seek to have the records amended, and the right to have some control over the disclosure of personally identifiable information from the education records.
+- The **Foreign Intelligence Surveillance Act of 1987(FISA)** regulates certain types of foreign intelligence collection including certain collection that occurs with compelled assistance from U.S. telecommunications companies.
