@@ -112,3 +112,7 @@
     - Health care provider that conducts certain health care transactions electronically
 - The **Family Educational Rights and Privacy Act** affords parents the right to access their children's education records, the right to seek to have the records amended, and the right to have some control over the disclosure of personally identifiable information from the education records.
 - The **Foreign Intelligence Surveillance Act of 1987(FISA)** regulates certain types of foreign intelligence collection including certain collection that occurs with compelled assistance from U.S. telecommunications companies.
+- The **CAN-SPAM Act** is a law that sets the rules for commercial email, established requirements for commercial messages, gives recipients the right to have you stop emailing them, and spells out tough penalties for violations.
+- The **Commision on Accreditation for Law Enforcement Agencies(CALEA)** is a credentialing authority whose primary mission is to accredit public safety agencies such as law enforcement, training academies, communications centers, and campus public safety.
+- The **Fair and Accurate Credit Transactions Act(FACTA)** is a law that adds provisions designed to improve the accuracy of consumers' credit-related records. It gives consumers the right to one free credit report a year from the credit reporting agencies, and consumers may also purchase for a reasonable free, a credit score along with information about how the credit score is calculated.
+- 
