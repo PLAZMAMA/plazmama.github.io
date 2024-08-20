@@ -27,6 +27,7 @@
 - The **Communications Decency Act** aims to protect children from porn.
 - The **Child Online Protection Act** prohibits making harmful material available to minors via the internet.
 - The **Children's Internet Protection Act** requires federally financed schools and livraries to use filters to block computer access to any material considered harmful to minors.
+- THe **Children's Online Privace Protection Act(COPPA)** gives parents control over what information websites can collect from their kids.
 - **Intellectual propery** is a term used to describe works of the mind that are distinct and owned or created by a single person or group.
 - A **copyright** is the exclusive right to distribute, display, perform, or reproduce an original work in copies; to prepare derivative works based on the work; and grant these exclusive rights to others.
 - **Copyright infringement** is a violation of the rights secured by the owner of the copyright.
@@ -77,6 +78,8 @@
 - **Cyberabuse** is any form of mistreatment or lack of care, both physical and mental, based on the use of an electronic communications device that causes harm and distress to others.
 - **Cyberharassment** is a form of cyberabuse in which the abusive behavior, which involves the use of an electronic communications device, is degrading, humiliating, hurtful, insulting, intimidating, malicious, or otherwise offensive to an individual or group of individuals causing substantial emotional distress.
 - **Cyberstalking** is also a form of cyberabuse that consists of a long-term pattern of unwanted persistent pursuit and intrusive behavior that is directed by one person against another that causes fear distress in the victim.
+- **Cyberloafing** describes employees who use work time to engage in non-work-related activities on the internet such as going on social media or checking private messages.
+- **Cybersquatting** is the act of buying up domains of a known trademark before the company that owns it can buy it to try to get them to buy it at a high price from yourself.
 - The **1994 Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act** set requirements for sec offender registration and notification in the United States. It also requires States to create websites that procive information on sex offenders within the state.
 - The **Sex Offender Registration and Notification Provisions(SORNA)** of the Adam Walksh Child Protection and SafetyAct of 2006 set national standards that govern which sex offenders must register and what data must be captured.
 - **Contigent work** is a job situation in which an individual does not have ana explicit or implicit contract for long-term employment.
@@ -115,4 +118,9 @@
 - The **CAN-SPAM Act** is a law that sets the rules for commercial email, established requirements for commercial messages, gives recipients the right to have you stop emailing them, and spells out tough penalties for violations.
 - The **Commision on Accreditation for Law Enforcement Agencies(CALEA)** is a credentialing authority whose primary mission is to accredit public safety agencies such as law enforcement, training academies, communications centers, and campus public safety.
 - The **Fair and Accurate Credit Transactions Act(FACTA)** is a law that adds provisions designed to improve the accuracy of consumers' credit-related records. It gives consumers the right to one free credit report a year from the credit reporting agencies, and consumers may also purchase for a reasonable free, a credit score along with information about how the credit score is calculated.
+- The WTO's Agreement on **Trade-Related Aspects of Intellectual Propery Rights(TRIPS)** establishes minimum standards for the regulation by national governments of the different areas of intellectual property such as copyright, trademarks, patents and other areas of intellectual propery.
+- The **Defend Trade Secrets Act(DTSA)** allows an owner of a trade secret to sue in federal court when its trade secrets have been misappropriated. This provides robust legal protections for trade secrets.
+- **Sensationalism** is when a news was posted with the goal of becoming popular/viral insthead of trying to potray things accuratly.
+- **Editorialism** implies that the contents of an article are opinions and not facts. So the article should be read with that in mind.
+- **Data lineage** is the process of understanding, recording, and visualizing data as it flows from data sources to consumption.
 - 
