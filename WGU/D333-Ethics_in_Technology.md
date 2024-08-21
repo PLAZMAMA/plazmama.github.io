@@ -123,4 +123,11 @@
 - **Sensationalism** is when a news was posted with the goal of becoming popular/viral insthead of trying to potray things accuratly.
 - **Editorialism** implies that the contents of an article are opinions and not facts. So the article should be read with that in mind.
 - **Data lineage** is the process of understanding, recording, and visualizing data as it flows from data sources to consumption.
+- The **International Organization for Standardization (ISO) 9001** is a global standard for quality management to increase quality control of products/services, cost savings and productivity gains.
+- The **International Organization for Standardization (ISO) 9000** uses the failure mode and effects analysis to determain if a system is compliant or not.
+- The **International Organization for Standardization (ISO) 31000** is a risk management framework to help organizations manage risks regardless of its size, activity or sector.
+- The **International AUditing and Assurance Standards Board** is a standards body that issues international standards on audition, quality management, and other services. Apperantly its also an international version of the **Statement on Standards for Attestation Engagements No.16**.
+- The **Statement on Standards for Attestation Engagements No.16** is a set of standards developed specifically for certified public accountants to evaluate an organization's internal controls and how service companies report on these controls.
+- The **False Claims Act(FCA)** imposes liability on individuals and companies who defraud governmental programs. Any person who knowingly submits, or causes to submit, false claims to the government is liable for three times the government's damages + an inflation linked penalty.
+- The **Age Discrimination in Employment Act of 1967** prohibits employment discrimination against people 40 years or older.
 - 
