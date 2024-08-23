@@ -6,6 +6,7 @@
 - **Law** is a system of rules that tells us what we can or cannot do.
 - A **code of ethics** states the principles and core values that are essential to one's work.
 - **Corporate social responsability** is the concept that an organization should act ethically by taking responsability for its actions.
+- A **corporate compliance officer/corporate ethics officer** is a senior-level manager that provides vision and leadership in the area of business conduct.
 - **Internal control** is the process that is established by an organization's board of directors, managers, and IT group to provide reasonable assurance for the effectivness and efficiency of operations, the reliability of finantial reporting, and compliance iwth applicable laws and regulations.
 - **Policies** are guidelines and laws by which the organization must abide.
 - **Processes** are a collection of tasks designed to acomplish an objective.
@@ -24,9 +25,9 @@
 - The **Second Amedment** protects americans right to arm themselves with guns(basically).
 - The **Third Amedment** restricts the quartering of soldiers in private home without the owner's concent.
 - THe **Fourth Amedment** protects citizens from unreasonable searches and seizures by the government.
-- The **Communications Decency Act** aims to protect children from porn.
-- The **Child Online Protection Act** prohibits making harmful material available to minors via the internet.
-- The **Children's Internet Protection Act** requires federally financed schools and livraries to use filters to block computer access to any material considered harmful to minors.
+- The **Communications Decency Act(CDA)** aims to protect children from porn.
+- The **Child Online Protection Act(COPA)** prohibits making harmful material available to minors via the internet.
+- The **Children's Internet Protection Act(CIPA)** requires federally financed schools and libraries to use filters to block computer access to any material considered harmful to minors.
 - THe **Children's Online Privace Protection Act(COPPA)** gives parents control over what information websites can collect from their kids.
 - **Intellectual propery** is a term used to describe works of the mind that are distinct and owned or created by a single person or group.
 - A **copyright** is the exclusive right to distribute, display, perform, or reproduce an original work in copies; to prepare derivative works based on the work; and grant these exclusive rights to others.
@@ -107,7 +108,8 @@
 - **Smishing** is a social engineering attack that uses fake mobile text messages to trick people into downloading malware/sharing information/sending money.
 - The **Gramm-Leach-Bliley Act(GLBA)** requires financial institutions/financial product companies to expand their information-sharing practices to their customers and to safeguard sensitive data.
 - The **Sarbanes Oxley Act** was made to help protect investors from fraudulent financial reporting by corporations. It mandated strict reforms to existing securities regulations and imposed tough new penalties on lawbreakers.
-- The **Federal Information Security Modernization Act** Codifies Department of Homeland Security(DHS) authority to administer the implementation of information security policies for non-national security federal Executive Branch systems, including providing technical assistance and deploying technologies to such systems. It also clarifies the Office of Management and Budget's (OMB) oversight authority over federal agency information security practices.
+- The **Department of Homeland Security(DHS)** is a large federal agency whose goal is to provide security against terrorism and other potential threats.
+- The **Federal Information Security Modernization Act** Codifies the DHS's authority to administer the implementation of information security policies for non-national security federal Executive Branch systems, including providing technical assistance and deploying technologies to such systems. It also clarifies the Office of Management and Budget's (OMB) oversight authority over federal agency information security practices.
 - The **Payment Card Industry Data Security Standard (PCI DSS)** is a widely accepted set of policies and procedures intended to optimize the security of credit, debit and cash card transactions. It also protects cardholders against misuse of their personal information.
 - The **Health Insurance Protability and Accountability Act(HIPPA)** protects the privacy and security of health information and gives patients rights to their health information by establishing standards to safeguard the protected health information that the following entities and their business associates hold:
     - Health plan
@@ -115,7 +117,8 @@
     - Health care provider that conducts certain health care transactions electronically
 - The **Family Educational Rights and Privacy Act** affords parents the right to access their children's education records, the right to seek to have the records amended, and the right to have some control over the disclosure of personally identifiable information from the education records.
 - The **Foreign Intelligence Surveillance Act of 1987(FISA)** regulates certain types of foreign intelligence collection including certain collection that occurs with compelled assistance from U.S. telecommunications companies.
-- The **CAN-SPAM Act** is a law that sets the rules for commercial email, established requirements for commercial messages, gives recipients the right to have you stop emailing them, and spells out tough penalties for violations.
+- The **Controlling the Assualt of Non-Solicited Pornography and Marketing(CAN-SPAM)** is a law that sets the rules for commercial email, established requirements for commercial messages, gives recipients the right to have you stop emailing them, and spells out tough penalties for violations.
+- The **Communications Assistance for Law Enforcement Act(CALEA)** amended the Wiretap Act and Electronic Communications Privacy Act, which required the telecommunications industry to build tools into its products that federal investigators could use after obtaining a court order to evesdrop on conversations and intercept electronic communications.
 - The **Commision on Accreditation for Law Enforcement Agencies(CALEA)** is a credentialing authority whose primary mission is to accredit public safety agencies such as law enforcement, training academies, communications centers, and campus public safety.
 - The **Fair and Accurate Credit Transactions Act(FACTA)** is a law that adds provisions designed to improve the accuracy of consumers' credit-related records. It gives consumers the right to one free credit report a year from the credit reporting agencies, and consumers may also purchase for a reasonable free, a credit score along with information about how the credit score is calculated.
 - The WTO's Agreement on **Trade-Related Aspects of Intellectual Propery Rights(TRIPS)** establishes minimum standards for the regulation by national governments of the different areas of intellectual property such as copyright, trademarks, patents and other areas of intellectual propery.
@@ -130,4 +133,9 @@
 - The **Statement on Standards for Attestation Engagements No.16** is a set of standards developed specifically for certified public accountants to evaluate an organization's internal controls and how service companies report on these controls.
 - The **False Claims Act(FCA)** imposes liability on individuals and companies who defraud governmental programs. Any person who knowingly submits, or causes to submit, false claims to the government is liable for three times the government's damages + an inflation linked penalty.
 - The **Age Discrimination in Employment Act of 1967** prohibits employment discrimination against people 40 years or older.
+- A **Computerized Provider Order Entry(CPOE)** is a system that enables physicians to place orders(for drugs, lab tests, etc...) electronically, with the orders transmitted directly to the recipient.
+- **Contingent work** is a job without explicit or implicit contract for long-term employment.
+- A **Decision Suport System(DSS)** is a business information system used to improve decision making in a variety of industries.
+- **Duty of care** is the obligation to protect people against any unreasonable harm or risk.
+- The **Economic Espoinage Act(EEA) of 1996** emposes penalties up to $10 million and 15 years in prison for theft of trade secrets.
 - 
