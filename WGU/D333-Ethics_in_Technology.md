@@ -11,7 +11,7 @@
 - **Policies** are guidelines and laws by which the organization must abide.
 - **Processes** are a collection of tasks designed to acomplish an objective.
 - A **code of ethics** states the principles and core values that are essential to the work of a particular occupational group.
-- The **Fair Credit Reporting Act** regulates operations of credit reporting bureaus.
+- The **Fair Credit Reporting Act** regulates the collection storage and use of credit information in possesion of the credit reporting bureaus.
 - The **Fair and Accurate Credit Transaction Act** allows consumers to request and obtain a free credit report each year.
 - The **American Recovery and Reinvestment Act** included strong privacy provisions for EHRs, including banning the sale of health information, promoting the use of audit trails and ecryption, and provising right of access for patients.
 - Title III of the **Omnibus Crime Controler and Safe Street Act**(AKA the wiretap act) regulates the interception of wire or oral communications.
@@ -111,12 +111,32 @@
 - The **Department of Homeland Security(DHS)** is a large federal agency whose goal is to provide security against terrorism and other potential threats.
 - The **Federal Information Security Modernization Act** Codifies the DHS's authority to administer the implementation of information security policies for non-national security federal Executive Branch systems, including providing technical assistance and deploying technologies to such systems. It also clarifies the Office of Management and Budget's (OMB) oversight authority over federal agency information security practices.
 - The **Payment Card Industry Data Security Standard (PCI DSS)** is a widely accepted set of policies and procedures intended to optimize the security of credit, debit and cash card transactions. It also protects cardholders against misuse of their personal information.
-- The **Health Insurance Protability and Accountability Act(HIPPA)** protects the privacy and security of health information and gives patients rights to their health information by establishing standards to safeguard the protected health information that the following entities and their business associates hold:
-    - Health plan
-    - Health care clearninghouse
-    - Health care provider that conducts certain health care transactions electronically
-- The **Family Educational Rights and Privacy Act** affords parents the right to access their children's education records, the right to seek to have the records amended, and the right to have some control over the disclosure of personally identifiable information from the education records.
-- The **Foreign Intelligence Surveillance Act of 1987(FISA)** regulates certain types of foreign intelligence collection including certain collection that occurs with compelled assistance from U.S. telecommunications companies.
+- The **Health Insurance Protability and Accountability Act(HIPPA)** improves portability and continuity of health insurance coverage to reduce fraud, and abuse in health insurance and healthcare delivery.
+
+
+
+---- search correct definition, check if its either one above or below
+
+
+ protects the privacy and security of health information and gives patients rights to their health information by establishing standards to safeguard the protected health information that the following entities and their business associates hold:
+    - Health plan.
+    - Health care clearinghouse.
+    - Health care provider that conducts certain health care transactions electronically.
+
+
+
+
+- The **Health Information Technology for Economic and Clinical Health Act(HITECH)** increased Medicaid and Medicare reimburstments to doctors and hospitals that demonstrate "meaningful use" of electronic health record(EHR) tech.
+- The **Family Educational Rights and Privacy Act(FERPA)** affords parents the right to access their children's education records, the right to seek to have the records amended, and the right to have some control over the disclosure of personally identifiable information from the education records.
+- The **Foreign Intelligence Surveillance Act of 1987(FISA)** describes procedures for the electronic survallience and collection of foreign intelligence information in communication between foreign powers and the agents of foreign powers.
+
+--------------- research about this, which one is correct, the one above or below --------------------
+
+regulates certain types of foreign intelligence collection including certain collection that occurs with compelled assistance from U.S. telecommunications companies.
+
+
+- The **Foreign Intelligence Surveillance Act(FISA) Court** meets in secret to hear applications for orders approving electronic surveillance anywhere within the U.S.
+- The **Foreign Intelligence Surveillance Amendments Act of 2008(FISA)** grants the NSA expanded authority to collect internation communications and they flow throught U.S. telecommunications network equipment and facilities without court approved warrents.
 - The **Controlling the Assualt of Non-Solicited Pornography and Marketing(CAN-SPAM)** is a law that sets the rules for commercial email, established requirements for commercial messages, gives recipients the right to have you stop emailing them, and spells out tough penalties for violations.
 - The **Communications Assistance for Law Enforcement Act(CALEA)** amended the Wiretap Act and Electronic Communications Privacy Act, which required the telecommunications industry to build tools into its products that federal investigators could use after obtaining a court order to evesdrop on conversations and intercept electronic communications.
 - The **Commision on Accreditation for Law Enforcement Agencies(CALEA)** is a credentialing authority whose primary mission is to accredit public safety agencies such as law enforcement, training academies, communications centers, and campus public safety.
@@ -127,7 +147,7 @@
 - **Editorialism** implies that the contents of an article are opinions and not facts. So the article should be read with that in mind.
 - **Data lineage** is the process of understanding, recording, and visualizing data as it flows from data sources to consumption.
 - The **International Organization for Standardization (ISO) 9001** is a global standard for quality management to increase quality control of products/services, cost savings and productivity gains.
-- The **International Organization for Standardization (ISO) 9000** uses the failure mode and effects analysis to determain if a system is compliant or not.
+- The **International Organization for Standardization (ISO) 9000** uses the **failure mode and effects analysis** to determain if a system is compliant or not.
 - The **International Organization for Standardization (ISO) 31000** is a risk management framework to help organizations manage risks regardless of its size, activity or sector.
 - The **International AUditing and Assurance Standards Board** is a standards body that issues international standards on audition, quality management, and other services. Apperantly its also an international version of the **Statement on Standards for Attestation Engagements No.16**.
 - The **Statement on Standards for Attestation Engagements No.16** is a set of standards developed specifically for certified public accountants to evaluate an organization's internal controls and how service companies report on these controls.
@@ -138,4 +158,12 @@
 - A **Decision Suport System(DSS)** is a business information system used to improve decision making in a variety of industries.
 - **Duty of care** is the obligation to protect people against any unreasonable harm or risk.
 - The **Economic Espoinage Act(EEA) of 1996** emposes penalties up to $10 million and 15 years in prison for theft of trade secrets.
-- 
+-  The **Electronic Communications privacy Act(ECPA)** protects three main things:
+    - The protection of communications while in transfer from sender to reciever.
+    - The protection of communications held in electronic storage.
+    - The prohibition of devices from recording dialing, routing, addressing, and signaling information without a search warrant.
+- **Electronic discovery(e-discovery)** is the collection, preperation, review, and production of electronic information to be used in criminal, civil actions and proceedings.
+- The **European Union Data Protection Directive** is a directive that requires any company doing business within the borders of EU countries to follow a set of privacy directives on the fair use of information.
+- The **Foriegn Corrupt Practices Act(FCPA)** makes bribing foriegn officer, foriegn political party official, or a canidate for foriegn political office a criminal act.
+- The **Freedom of Information Act(FOIA)** grants citizens the right to access certain information and records of federal, state, and local governments upon request.
+- An **Information Security Group** 
