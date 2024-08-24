@@ -37,13 +37,13 @@
     2. The nature of the copyrighted work.
     3. The portion of the copyrighted work used.
     4. The effect of the use on the value of the copyrighted work.
-- The **Prioritizing resources and Organization for Intellectual Property Act of 2008** increased trademark and copyright enforcement and penalties for infringement.
+- The **Prioritizing resources and Organization for Intellectual Property Act(PRO-IP) of 2008** created the position of Intellectual Property Enforcement Coordinator within the Executive Office of the President and increased trademark and copyright enforcement and penalties for infringement.
 - The original **General Agreement on Tariffs and Trade(GAAT)** in 1993 created the World Trade Organization(WTO).
-- The **World Trade Organization(WTO** is a global organization that deals with rules of international trade based on WTO agreements that help producers of goods and services, exporters and importers conduct their business.
+- The **World Trade Organization(WTO)** is a global organization that deals with rules of international trade based on WTO agreements that help producers of goods and services, exporters and importers conduct their business.
 - The **World Intelectual Propery Organization(WIPO)** is an agency of the UN dedicated to "the use of intellectual propery as a means to stimulate innovation and creativity"
 - The **Digital Millennium Copyright Act(DMCA)** signed in 1998, implements two WIPO treaties in the U.S. It also makes it illegal to circumvent technical protection or develop and provide tools that allow others to access a technilogically protected work.
 - A **patent** is a grant of property right issued by the U.S. Patent and Trademark Office(USPTO) to an inventor that permits its owner to exclude the public from making, using or selling a protected invention and allows for legal action against violators.
-- The **Leathy-Smith America Invents Act** changed the U.S. patent system from a "first-to-invent" to "first-inventor-to file" system and expanded the definition of prior art which is used to determine the novelty of an invention and whether it can be patented.
+- The **Leahy-Smith America Invents Act** changed the U.S. patent system from a "first-to-invent" to "first-inventor-to file" system and expanded the definition of prior art which is used to determine the novelty of an invention and whether it can be patented.
 - **Plagiarism** is the act of stealing someone's ideas or words and passing them off as one's own.
 - **Reverse engineering** is the process of breaking something down in order to understand it, build a copy of it, or improve it.
 - **Competetive intelligence** is legally obtained information that is gathered to help a company gain an advantage over its rivals.
@@ -166,4 +166,18 @@ regulates certain types of foreign intelligence collection including certain col
 - The **European Union Data Protection Directive** is a directive that requires any company doing business within the borders of EU countries to follow a set of privacy directives on the fair use of information.
 - The **Foriegn Corrupt Practices Act(FCPA)** makes bribing foriegn officer, foriegn political party official, or a canidate for foriegn political office a criminal act.
 - The **Freedom of Information Act(FOIA)** grants citizens the right to access certain information and records of federal, state, and local governments upon request.
-- An **Information Security Group** 
+- An **Information Security Group** manages the processes, tools, and policies necessary to prevent, detect, document, and counter threats to digital and nondigital information, whether its in transit, being processed, or at the rest in storage
+- The **ISEA No.3402** was developed to provide an internation assurance standard for allowing public acountants to issue a report for use by user organizations their auditors on controls at a service organization that are likely to impact or be part of the user organization's system of internal control over financial reporting.
+- The **John Doe lawsuit** is a type of lawsuit organizations may file in order to gain the power to try to identify an anonimuos user that caused harm to the organization through their postings.
+- A **libel** is a written defamatory statement.
+- A **litigation hold notice** are instructions sent by organizations to inform its or other employees to save relevant data and to suspend data that might be due to be destroyed based on normal data-retention rules.
+- **Live telemedicine** is a form of telemedicine in which patients and healthcare providers are present at different sites at the same time, usually done via a video conference.
+- A **Managed Security Service Provider(MSSP)** is a company that monitors, manages, and maintains computer and network security for other organizations.
+- A **National Security Letter(NSL)** comples holders of your personal data to turn them over to the government and is not subject to judicial review or oversight
+- A **NSL gag provision** prohibits the NSL recipients from informing anyone, even the person who is the subject of the NSL request, that the government secretly requested his/her records.
+- A **Next-Generation Firewall(NGFW)** is a hardware/software based network security system that is able to detect and block attacks by filtering network traffic dependent on the packet contents.
+- An **N-version programming** is a programming technique that aims to reduce the impact of software errors by independently implementing the set of user requirements N times. The implementation are then run in parallel, and if a difference is found a "voting algorithm" is executed to determine which results to use.
+- A **Profession Employer Organization(PEO)** is a business entity that coemploys the employees of its clients and typically assumes responsability for all human resources management functions.
+- **Qui tam** a provision of the False Claims Act that allows a private citizen to file a suit in the name of the U.S. government chargin fraud by government contractors and other entities who recieve or use government funds.
+- The **Right to Financial Privacy Act** protects records of financial institution customers from unauthorized scrutiny by the federal government.
+- A **social audit** is when an organization reviews how well its meeting its ethical and social responsability goals and communicates its new goal for the upcoming year.
