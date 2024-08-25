@@ -14,7 +14,7 @@
 - The **Fair Credit Reporting Act** regulates the collection storage and use of credit information in possesion of the credit reporting bureaus.
 - The **Fair and Accurate Credit Transaction Act** allows consumers to request and obtain a free credit report each year.
 - The **American Recovery and Reinvestment Act** included strong privacy provisions for EHRs, including banning the sale of health information, promoting the use of audit trails and ecryption, and provising right of access for patients.
-- Title III of the **Omnibus Crime Controler and Safe Street Act**(AKA the wiretap act) regulates the interception of wire or oral communications.
+- Title III of the **Omnibus Crime Control and Safe Street Act**(AKA the wiretap act) regulates the interception of wire or oral communications.
 - The **USA PATRIOT Act** modified 15 existing statutes and gave sweeping new powers both to domestic law enforcement and international intelligence agencies, including the ability of law enforcement to eavesdrop on telephone communication, intercept email messages, and search medical, finantial, and other records.
 - The **Foriegn Intelligence Surveillance Act Admendments Act of 2004** authorized intelligence gathering on individuals not affiliated with any known terrorist organization (AKA Lone wolfs)
 - The **Foriegn Intelligence Surceillance Act of 1978 Amendments Act of 2008** granted the NSA expanded authority to collect, without court-approved warrents, international communications as they flow through the U.S. telecommunications equipment and facilities.
@@ -74,6 +74,7 @@
 - **Clinical Decision Support(CDS)** is a process and a set of tools designed to enhance health-related decision making through the use of clinical knowledge and patient-specific data. This approach can increase healthcare quality while reducing the costs.
 - **Telehealth** is the use of telecommunications and IT to provide medical care to a broader ammount of patients.
 - **Telemedicine** is the component of telehealth that provides medical care to people at a location different from the healthcare providers.
+- **Store-and-forward telemedicine** is the acquiring of data, sound, images, and video from a patient and then transmitting everything to a medical specialist for later evaluation.
 - **Earned media** refers to media exposure an organization gets through press and social media mentions.
 - **Viral marketing** is an approach to social media marketing that encourages individuals to pass along a marketing message to others. Like Andrew Tate's video reuploaders who get money from Tate if the video does well.
 - **Cyberabuse** is any form of mistreatment or lack of care, both physical and mental, based on the use of an electronic communications device that causes harm and distress to others.
@@ -111,30 +112,12 @@
 - The **Department of Homeland Security(DHS)** is a large federal agency whose goal is to provide security against terrorism and other potential threats.
 - The **Federal Information Security Modernization Act** Codifies the DHS's authority to administer the implementation of information security policies for non-national security federal Executive Branch systems, including providing technical assistance and deploying technologies to such systems. It also clarifies the Office of Management and Budget's (OMB) oversight authority over federal agency information security practices.
 - The **Payment Card Industry Data Security Standard (PCI DSS)** is a widely accepted set of policies and procedures intended to optimize the security of credit, debit and cash card transactions. It also protects cardholders against misuse of their personal information.
-- The **Health Insurance Protability and Accountability Act(HIPPA)** improves portability and continuity of health insurance coverage to reduce fraud, and abuse in health insurance and healthcare delivery.
-
-
-
----- search correct definition, check if its either one above or below
-
-
- protects the privacy and security of health information and gives patients rights to their health information by establishing standards to safeguard the protected health information that the following entities and their business associates hold:
+- The **Health Insurance Protability and Accountability Act(HIPPA)** improves portability and continuity of health insurance coverage to reduce fraud, and abuse in health insurance and healthcare delivery. It protects the privacy and security of health information and gives patients rights to their health information by establishing standards to safeguard the protected health information that the following entities and their business associates hold:
     - Health plan.
     - Health care clearinghouse.
     - Health care provider that conducts certain health care transactions electronically.
-
-
-
-
-- The **Health Information Technology for Economic and Clinical Health Act(HITECH)** increased Medicaid and Medicare reimburstments to doctors and hospitals that demonstrate "meaningful use" of electronic health record(EHR) tech.
 - The **Family Educational Rights and Privacy Act(FERPA)** affords parents the right to access their children's education records, the right to seek to have the records amended, and the right to have some control over the disclosure of personally identifiable information from the education records.
 - The **Foreign Intelligence Surveillance Act of 1987(FISA)** describes procedures for the electronic survallience and collection of foreign intelligence information in communication between foreign powers and the agents of foreign powers.
-
---------------- research about this, which one is correct, the one above or below --------------------
-
-regulates certain types of foreign intelligence collection including certain collection that occurs with compelled assistance from U.S. telecommunications companies.
-
-
 - The **Foreign Intelligence Surveillance Act(FISA) Court** meets in secret to hear applications for orders approving electronic surveillance anywhere within the U.S.
 - The **Foreign Intelligence Surveillance Amendments Act of 2008(FISA)** grants the NSA expanded authority to collect internation communications and they flow throught U.S. telecommunications network equipment and facilities without court approved warrents.
 - The **Controlling the Assualt of Non-Solicited Pornography and Marketing(CAN-SPAM)** is a law that sets the rules for commercial email, established requirements for commercial messages, gives recipients the right to have you stop emailing them, and spells out tough penalties for violations.
@@ -143,6 +126,7 @@ regulates certain types of foreign intelligence collection including certain col
 - The **Fair and Accurate Credit Transactions Act(FACTA)** is a law that adds provisions designed to improve the accuracy of consumers' credit-related records. It gives consumers the right to one free credit report a year from the credit reporting agencies, and consumers may also purchase for a reasonable free, a credit score along with information about how the credit score is calculated.
 - The WTO's Agreement on **Trade-Related Aspects of Intellectual Propery Rights(TRIPS)** establishes minimum standards for the regulation by national governments of the different areas of intellectual property such as copyright, trademarks, patents and other areas of intellectual propery.
 - The **Defend Trade Secrets Act(DTSA)** allows an owner of a trade secret to sue in federal court when its trade secrets have been misappropriated. This provides robust legal protections for trade secrets.
+- The **Uniform Trade Secrets Act(UTSA)** brings uniformity to all of the U.S in the area of trade secret law.
 - **Sensationalism** is when a news was posted with the goal of becoming popular/viral insthead of trying to potray things accuratly.
 - **Editorialism** implies that the contents of an article are opinions and not facts. So the article should be read with that in mind.
 - **Data lineage** is the process of understanding, recording, and visualizing data as it flows from data sources to consumption.
@@ -181,3 +165,16 @@ regulates certain types of foreign intelligence collection including certain col
 - **Qui tam** a provision of the False Claims Act that allows a private citizen to file a suit in the name of the U.S. government chargin fraud by government contractors and other entities who recieve or use government funds.
 - The **Right to Financial Privacy Act** protects records of financial institution customers from unauthorized scrutiny by the federal government.
 - A **social audit** is when an organization reviews how well its meeting its ethical and social responsability goals and communicates its new goal for the upcoming year.
+- An **SSEA No.16 audit report** is an auditing standard issued by the Auditing Standards Board of the American Institue of Certified Public Accountants(AICPA). It demonstrates that an outsourcing firm has effective internal controls in accordance with Sarbanes-Oxley Act of 2002.
+- A **Strategic Lawsuit Against Public Participation(SLAPP)** is a lawsuit filed by corporations, government officials, and others against citizens and community groups who oppose them on matters of concern. The lawsuit is typically without merit and is used to intimidate critics out of fear of the cost and effort associated with a major legal battle.
+- **Strict liability** is a situation in which the defendant is held responsible for injuring anothe rperson, regardless of negligence or intent.
+- A **system safety engineer** is someone who is responsible for ensuring that a system operates in a safe and reliable manner while meeting its user's needs.
+- **System testing** is testing done after successfull intergarion testing where the various subsystems are combined to test the entire system as a complete entity.
+- A **Transport Layer Security(TLS)** is a communications protocol or system of rules that ensures privacy between communicating applications and their users on the Internet.
+- **U.S Computer Emergency Readiness Team(US-CERT)** was established in 2003 to protect the nation's internet infrastructure against cyberattackes, it serves as a clearinghouse for information on new viruses, worms, and other computer security topics.
+- **User Acceptance Testing** is done independently by trained end users to ensure the system operates as expected.
+- **Vehicle Event Data Recorder(EDR)** is a device that records vehicle and occupant data for a few seconds before, during and after any behicle crash taht is severe enough to deploy the vehicle's air bags.
+- A **vice** is a habit of unacceptable behavior.
+- 
+
+Master Arenas video paused at 1:34:00
