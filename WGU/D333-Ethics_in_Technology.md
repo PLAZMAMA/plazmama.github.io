@@ -7,7 +7,7 @@
 - A **code of ethics** states the principles and core values that are essential to one's work.
 - **Corporate social responsability** is the concept that an organization should act ethically by taking responsability for its actions.
 - A **corporate compliance officer/corporate ethics officer** is a senior-level manager that provides vision and leadership in the area of business conduct.
-- **Internal control** is the process that is established by an organization's board of directors, managers, and IT group to provide reasonable assurance for the effectivness and efficiency of operations, the reliability of finantial reporting, and compliance iwth applicable laws and regulations.
+- **Internal control** is the process that is established by an organization's board of directors, managers, and IT group to provide reasonable assurance for the effectivness and efficiency of operations, the reliability of finantial reporting, and compliance with applicable laws and regulations.
 - **Policies** are guidelines and laws by which the organization must abide.
 - **Processes** are a collection of tasks designed to acomplish an objective.
 - A **code of ethics** states the principles and core values that are essential to the work of a particular occupational group.
@@ -107,6 +107,7 @@
 - **SANS Institue** is a company that offers cybersecurity training and certifications.
 - **CompTIA** is a non-profit association that issues professional certifications for the IT industry. It is also headquartered in Chicago.
 - **Smishing** is a social engineering attack that uses fake mobile text messages to trick people into downloading malware/sharing information/sending money.
+- **Vising** is similar to smishing except the victims are scammed via voice-mail.
 - The **Gramm-Leach-Bliley Act(GLBA)** requires financial institutions/financial product companies to expand their information-sharing practices to their customers and to safeguard sensitive data.
 - The **Sarbanes Oxley Act** was made to help protect investors from fraudulent financial reporting by corporations. It mandated strict reforms to existing securities regulations and imposed tough new penalties on lawbreakers.
 - The **Department of Homeland Security(DHS)** is a large federal agency whose goal is to provide security against terrorism and other potential threats.
@@ -175,6 +176,39 @@
 - **User Acceptance Testing** is done independently by trained end users to ensure the system operates as expected.
 - **Vehicle Event Data Recorder(EDR)** is a device that records vehicle and occupant data for a few seconds before, during and after any behicle crash taht is severe enough to deploy the vehicle's air bags.
 - A **vice** is a habit of unacceptable behavior.
+- A **virtue** is a habit of acceptable behavior.
+- A **zombie** is a computer in a botnet without the computer's owner consent or knowladge.
+- An **Acceptable Use Policy(AUP)** is a document that establishes restrictions and practices a user must agree to in order to use organizational computing and network resources.
+- The 5 key elements of an **Acceptable Use Policy(AUP)** are:
+    1. **Purpose of the AUP**: why its needed and what are its goals?.
+    2. **Scope**: who and what is covered under the AUP?.
+    3. **Policy**: How are both acceptable use and unacceptable use defined; what are some examples of each?.
+    4. **Compliance**: Who is responsible for monitoring compliance and how will it be measured?.
+    5. **Sanctions**: What actions will be taken against an individual who violates the policy?.
+- The **I.T software engineering code of ethics** states that software engineering shall adhear to the following eight principles:
+    1. **Public**: Software engineers shall act consistently with the public interest.
+    2. **Client and Employer**: Software engineers shall act in a manner that is in the best interests of their client and employer consistent with the public interest.
+    3. **Product**: Software engineers shall ensure that their products and related modifications meet the highest professional standards possible.
+    4. **Judgment**: Software engineers shall maintain integrity and independence in professional judgment
+    5. **Management**: Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and maintainance.
+    6. **Profession**: Software engineers shall advance the integrity and reputation of the profession consistent with the public interest.
+    7. **Colleagues**: Software engineers shall be fair to and supportive of their colleagues.
+    8. **Self**: Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
+- **Cracker** is an individual who causes problems, steals data, and corrupts systems.
+- **Malicious insider** is an employee or contractor who attempts to gain financially and/or distrupt company's information systems and business operations.
+- **Industrial spy** is an individual who captures trade secrets and attempts to gain an unfair competitive advantage.
+- **Cybercriminal** is someone who attacks a computer system or network for financial gain.
+- **Hacktivist** is an individual who hacks computer or website in an attempt to promote a political ideology.
+- **Cyberterorrist** is someone who attempts to destroy the infrastructure components governments, financial institutions, and other corporations, utilities, and emergency response units.
+- **Computer Fraud and Abuse Act** addresses fraud and related activities inassociation with computers, including the following:
+    - Accessing a computer without authorization or exceeding authorized access.
+    - Transmitting a program, code, or command that causes harm to a computer.
+    - Trafficing of computer passwords.
+    - Threatening to cause damage to a protected computer.
+- **Fraud related Activity in Connection with Access Devices Statue** covers false claims regarding unauthorized use of credit cards.
+- **Stored Wire and Electronic Communications and Transactional Records Access Statues** focuses on unlawful access to stored communications to obtain, alter, or prevent authorized access to a wire or electronic communication while its in electronic storage.
+- **Executive order 12333** identifies the various U.S. governmental intelligence-gathering, agencies, and defines what information can be collected, retained, and disseminated by these agencies.
+- **General Data Protetion Regulation(GDPR)** strengthens data protection for individuals within the EU by addressing the export of personal data outside the EU.
 - 
 
 Master Arenas video paused at 1:34:00
