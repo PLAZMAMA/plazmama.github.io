@@ -102,6 +102,8 @@
 - **Utilitarianism** is an approach to ethics that assumes humans are motivated by happiness. It states that when we are determining how we should act, we should first consider what kinds of actions bring about the most happiness for the greatest number of people. It also focuses on the results/consequences of our actions while treating intent irrelevant.
 - **Deontology** is an ethical theory that uses rules to distinguish right from wrong. The rules should be followed without exception. Like Batman and his rule to never kill which is demonstrated by not killing the Joker even though he could which will probably lead to less victims in the future as the Joker always escapes prison.
 - **Relativism** states that there is not set rules as these rules change in every culture/place.
+- **Egoism** is the tendency to see things in relation to oneself.
+- **Altruism** is the unselfish concern for the welfare of others.
 - **Software & Information Industry Association (SIIA)** is an organization that represents the world's largers software and hardware manufacturers.
 - **Association for Computing Machinery(ACM)** is the world's largest educational and scientific society dedicated to IT.
 - **SANS Institue** is a company that offers cybersecurity training and certifications.
