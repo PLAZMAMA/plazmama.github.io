@@ -83,7 +83,7 @@
 - **Cyberloafing** describes employees who use work time to engage in non-work-related activities on the internet such as going on social media or checking private messages.
 - **Cybersquatting** is the act of buying up domains of a known trademark before the company that owns it can buy it to try to get them to buy it at a high price from yourself.
 - The **1994 Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act** set requirements for sec offender registration and notification in the United States. It also requires States to create websites that procive information on sex offenders within the state.
-- The **Sex Offender Registration and Notification Provisions(SORNA)** of the Adam Walksh Child Protection and SafetyAct of 2006 set national standards that govern which sex offenders must register and what data must be captured.
+- The **Sex Offender Registration and Notification Provisions(SORNA)/Adam Walsh Child Protection and Safety Act of 2006** set national standards that govern which sex offenders must register and what data must be captured.
 - **Contigent work** is a job situation in which an individual does not have ana explicit or implicit contract for long-term employment.
 - **Temporary staffing firms** recruit, train, and test job seekers in a wide range of job categories and skill levels, and then assign them to clients as needed.
 - A **coemployment relationship** is one in which two emploters have actual or potential legal rights and duties with respect to the same emplotee or group of employees.
@@ -136,7 +136,7 @@
 - The **International Organization for Standardization (ISO) 31000** is a risk management framework to help organizations manage risks regardless of its size, activity or sector.
 - The **International AUditing and Assurance Standards Board** is a standards body that issues international standards on audition, quality management, and other services. Apperantly its also an international version of the **Statement on Standards for Attestation Engagements No.16**.
 - The **Statement on Standards for Attestation Engagements No.16** is a set of standards developed specifically for certified public accountants to evaluate an organization's internal controls and how service companies report on these controls.
-- The **False Claims Act(FCA)** imposes liability on individuals and companies who defraud governmental programs. Any person who knowingly submits, or causes to submit, false claims to the government is liable for three times the government's damages + an inflation linked penalty.
+- The **False Claims Act(FCA)** imposes liability on individuals and companies who defraud governmental programs. Any person who knowingly submits, or causes to submit, false claims to the government is liable for three times the government's damages + an inflation linked penalty. It also protects the employee if he/she file's a lawsuit against the contractor's/company's unethicals acts to defraud the government.
 - The **Age Discrimination in Employment Act of 1967** prohibits employment discrimination against people 40 years or older.
 - A **Computerized Provider Order Entry(CPOE)** is a system that enables physicians to place orders(for drugs, lab tests, etc...) electronically, with the orders transmitted directly to the recipient.
 - **Contingent work** is a job without explicit or implicit contract for long-term employment.
@@ -148,7 +148,13 @@
     - The protection of communications held in electronic storage.
     - The prohibition of devices from recording dialing, routing, addressing, and signaling information without a search warrant.
 - **Electronic discovery(e-discovery)** is the collection, preperation, review, and production of electronic information to be used in criminal, civil actions and proceedings.
-- The **European Union Data Protection Directive** is a directive that requires any company doing business within the borders of EU countries to follow a set of privacy directives on the fair use of information.
+- The **European Union Data Protection Directive** is a directive that requires any company doing business within the borders of EU countries to follow a set of privacy directives on the fair use of information. The following list summarizes the basic tenets of the directive:
+    - **Notice**: An individual has the right to know if his or her personal data are being collected, and any data must be collected for clearly stated, legitimate purposes.
+    - **Choice**: An individual has the right to elect not to have his or her personal data collected.
+    - **Use**: An indivudual has the righ to know how personal data will be used and the right to restrict their use.
+    - **Security**: Organizations must "implement appropriate technical and organizations measures" to protect personal data, and the individual has the right to know what these measures are.
+    - **Correction**: An individual has the right to challenge the accuracy of the data and to provide corrected data.
+    - **Engorcement**: An individual has the right to seek legal relief through appropriate channels to protect privacy rights.
 - The **Foriegn Corrupt Practices Act(FCPA)** makes bribing foriegn officer, foriegn political party official, or a canidate for foriegn political office a criminal act.
 - The **Freedom of Information Act(FOIA)** grants citizens the right to access certain information and records of federal, state, and local governments upon request.
 - An **Information Security Group** manages the processes, tools, and policies necessary to prevent, detect, document, and counter threats to digital and nondigital information, whether its in transit, being processed, or at the rest in storage
@@ -209,6 +215,7 @@
 - **Stored Wire and Electronic Communications and Transactional Records Access Statues** focuses on unlawful access to stored communications to obtain, alter, or prevent authorized access to a wire or electronic communication while its in electronic storage.
 - **Executive order 12333** identifies the various U.S. governmental intelligence-gathering, agencies, and defines what information can be collected, retained, and disseminated by these agencies.
 - **General Data Protetion Regulation(GDPR)** strengthens data protection for individuals within the EU by addressing the export of personal data outside the EU.
+- **Consequentialism** is an ethical theory that judges whether or not something is right by what its consequences are. For example, most people would agree that lying is wrong but if telling a lie would help save a person's life, consequentialism would state that lying in that situation is moral.
 - 
 
 Master Arenas video paused at 1:34:00
