@@ -1,4 +1,4 @@
-# My Vimwiki
+# PLAZMAs Vimwiki
 
 
 
