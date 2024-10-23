@@ -1,0 +1,10 @@
+- [] Calculus
+    - [] [Calculus II] (https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
+    - [] [Calculus III] (https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
+    - [] [Diff Eqs] (https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
+- [] Linear Algebra
+    - [] Eigenvalues and eigenvectors
+    - [] Stuff IDK I need to learn yet
+- [] Statistics
+    - [] Probability Theory
+    - [] Stuff IDK I need to learn yet
