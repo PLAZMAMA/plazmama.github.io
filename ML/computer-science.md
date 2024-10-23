@@ -1,31 +1,31 @@
 ## Plan
 - [ ] Learn Tinygrad at a deep enough level to contribute to it.
-    - [Learn Teenygrad] (https://github.com/tinygrad/teenygrad)
-        - [ ] [Karpathy's NNs: Zero To Hero with Teenygrad] (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-            - [x] [1st video] (https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1)
+    - [Learn Teenygrad](https://github.com/tinygrad/teenygrad)
+        - [ ] [Karpathy's NNs: Zero To Hero with Teenygrad](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+            - [x] [1st video](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1)
                 - [x] watch
                 - [x] excersizes
-            - [ ] 2nd video (https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
+            - [ ] [2nd video](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
                 - [ ] watch (1:51:00)
                 - [ ] exercises
-            - [ ] 3rd video (https://www.youtube.com/watch?v=TCH_1BHY58I&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=3)
+            - [ ] [3rd video](https://www.youtube.com/watch?v=TCH_1BHY58I&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=3)
                 - [ ] watch
                 - [ ] exercises
-            - [ ] 4th video (https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=4)
+            - [ ] [4th video](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=4)
                 - [ ] watch
                 - [ ] exercises
-            - [ ] 5th video (https://www.youtube.com/watch?v=q8SA3rM6ckI&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
+            - [ ] [5th video](https://www.youtube.com/watch?v=q8SA3rM6ckI&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
                 - [ ] watch
                 - [ ] exercises
-            - [ ] 6th video (https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6)
+            - [ ] [6th video](https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6)
                 - [ ] watch
                 - [ ] exercises
-            - [ ] 7th video (https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7)
+            - [ ] [7th video](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7)
                 - [ ] watch
                 - [ ] exercises
-            - [ ] 8th video (https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9)
+            - [ ] [8th video](https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9)
                 - [ ] watch
                 - [ ] exercises
-            - [ ] 9th video (https://www.youtube.com/watch?v=l8pRSuU81PU&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10)
+            - [ ] [9th video](https://www.youtube.com/watch?v=l8pRSuU81PU&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10)
                 - [ ] watch
                 - [ ] exercises
