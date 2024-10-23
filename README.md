@@ -10,6 +10,7 @@ A list of my major life goals.
         - [] Learn Tinygrad at a deep enough level to contribute to it.
     - [] Mathematics
         - [] Calculus
-            - [] [Calculus II] ()
-            - [] [Calculus III] ()
+            - [] [Calculus II] (https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
+            - [] [Calculus III] (https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
+            - [] [Diff Eqs] (https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
 
