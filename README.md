@@ -1,5 +1,6 @@
+# Table Of Contents / Home Page
 
-My [wiki](https://plazma.github.io/wiki/) is where I write most of the things.
+## My [wiki](https://plazma.github.io/wiki/) is where I write most of the things for now.
 
 ## Main TODO List
 A list of my major life goals.
