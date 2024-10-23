@@ -1,7 +1,5 @@
 # C950 - Data Structures and Algorithms II
 
-## [PLAZMA Wiki Index](../index)
-
 ## Notes
 
 ### 6.5 Double Hashing

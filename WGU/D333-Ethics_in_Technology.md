@@ -1,7 +1,5 @@
 [#](#) D333-Ethics in Technology
 
-## [PLAZMA Wiki Index](../index)
-
 ## Notes
 - **Ethics** is a code of behavior that is defined by the group to which an individual belongs.
 - **Morals** are the persoonal principles upon which an individual bases his or her decisions about what is right and wrong.
