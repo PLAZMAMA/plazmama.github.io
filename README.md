@@ -1,5 +1,4 @@
-# Table Of Contents / Home Page
-
+# Table Of Contents
 
 ## Main TODO List
 A list of my major life goals.
