@@ -1,5 +1,3 @@
-## The stdout of my concionceness.
-Where I share my thoughts, the things I'm learning, my struggles and successes, and more.
 
 My [wiki](https://plazma.github.io/wiki/) is where I write most of the things.
 
