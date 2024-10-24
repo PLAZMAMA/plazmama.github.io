@@ -53,4 +53,5 @@ I still don't know what C1 and C2 are good to pick and why.
 #### Hash Table Resizing
 
 Hash resizing stratagy largley depends on the picked probing strategy.
+For example, resizing to a prime number would be effective for quadratic probing, but not much for linear probing(at least I think so).
 
