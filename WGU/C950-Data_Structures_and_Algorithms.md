@@ -67,11 +67,12 @@ I still don't know what C1 and C2 are good to pick and why.
 #### Hash Table Resizing
 
 Hash resizing stratagy largley depends on the picked probing strategy.
-For example, resizing to a prime number would be effective for quadratic probing, but not much for linear probing(at least I think so).
+For example, resizing to a prime number would be effective for quadratic probing,
+but not much for linear probing(at least I think so).
 
-Hash Table resizing can be done when a certain load factor threshold has been crossed.
-Or when using chaining(linked list for each bucket), you can resize the hash table when a certain linked list size has been reached.
-.
+Hash Table resizing can be done when a certain load factor threshold has been
+crossed. Or when using chaining(linked list for each bucket), you can resize the
+hash table when a certain linked list size has been reached.
 
 #### Hash Functions
 
@@ -113,8 +114,9 @@ int mid_square_hash(int key, int middle_bits_size, int table_size):
     
     return extracted_bits % table_size // Makes sure to return a key in the table range.
 ```
-Its good to note that the X numbers that are taken from the middle needs to be bigger than `log10(table_size)`
-X bits that are taken from the middle need to be bigger than `log2(table_size)`
+Its good to note that the X numbers that are taken from the middle needs to be
+bigger than `log10(table_size)`. X bits that are taken from the middle need to
+be bigger than `log2(table_size)`.
 
 ##### Pros
 
@@ -124,7 +126,9 @@ X bits that are taken from the middle need to be bigger than `log2(table_size)`
 
 - Harder to implement.
 
-**Mulplicative string hash** adds each character ASCII/Unicode value of a string key to the current hash value(with an initial value set by the programmer) multiplied by a given multiplier.
+**Mulplicative string hash** adds each character ASCII/Unicode value of a string
+key to the current hash value(with an initial value set by the programmer)
+multiplied by a given multiplier.
 ```python
 def mul_str_hash(key: str, table_size: int, initial_value: int, multiplier: int):
     hash_value = initial_value
@@ -134,5 +138,42 @@ def mul_str_hash(key: str, table_size: int, initial_value: int, multiplier: int)
     return hash_value % table_size
 ```
 
-**Direct Hashing**
+A **direct hash funcion** uses the Key itself as the hash value. The table will
+only be able to house keys in the range of `[0, table_size - 1]`. A search
+algorithm is for a directly hash table will access the bucket of the key value
+and if there is a value in the bucket, it returns the value, and if the bucket
+is empty, it returns null. This means that there are no collisions and collision
+handling!!!
+
+There are 2 requirements for direct hashing to be effective:
+ 
+- The table size must be the value of the largest key in the table plus the
+smallest possible key or 0. For example:
+```python
+def table_size(largest_key: int, smallest_key: int):
+    largest_key + min(smallest_key, 0)
+```
+
+#### Cryptography and Password Hashing
+**Ceasar Hash** shifts the ASCII value of a string left or right by a chosen ammount.
+##### Pros
+
+- Easy to implement.
+- Fast to encrypt and decrypt
+
+##### Cons
+
+- Not secure because it is computationally inexpensive to decrypt an
+encrypted message without knowing the shift ammount that was used to encrypt it.
+
+Hashing functions can be used to verify the integrity of transmitted data. This
+is called a checksum and can be done with many hashing functions like MD5.
+
+###### Password Hashing
+Usually you store the hashes of your users passwords insthead of the actual
+passwords. When a user wants to log in, you hash the password they enter and
+compare it to the hashed password you stored in the database. This makes it
+harder for hackers that might break into your database to get the actual
+passwords as the password won't be able to be reconstructed from the password
+hash that was stored.
 
