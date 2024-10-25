@@ -134,5 +134,5 @@ def mul_str_hash(key: str, table_size: int, initial_value: int, multiplier: int)
     return hash_value % table_size
 ```
 
-#### Direct Hashing
+**Direct Hashing**
 
