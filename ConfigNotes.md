@@ -5,3 +5,6 @@
 - [ ] Remove unused terminal toggle.
 - [ ] Look into basedpyright and basedblack. Mabye replaced pyright and black with them.
 - [ ] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) to the config
+- [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
+    - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
+    - [ ] Get copilot free student trial either with my school email or with Chris's.
