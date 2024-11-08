@@ -4,3 +4,4 @@
 - [ ] Upgrade lazy.nvim
 - [ ] Remove unused terminal toggle.
 - [ ] Look into basedpyright and basedblack. Mabye replaced pyright and black with them.
+- [ ] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) to the config
