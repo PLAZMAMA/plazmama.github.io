@@ -8,5 +8,6 @@
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
     - [ ] Get copilot free student trial either with my school email or with Chris's.
+- [ ] Look into changing codeium/copilot suggestions to the autocomplete menue insthead of ghost text suggestions.
 - [ ] Remove diff window in undotree. This window is the window below the undotree window, it shows the diff between the current state of the file and the last state of the file. Mabye I would use it more in the future, in that case, disregad this
 - [ ] look into adding `nvim-web-devicons` plugin
