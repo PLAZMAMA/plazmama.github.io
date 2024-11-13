@@ -11,3 +11,4 @@
 - [ ] Look into changing codeium/copilot suggestions to the autocomplete menue insthead of ghost text suggestions.
 - [ ] Remove diff window in undotree. This window is the window below the undotree window, it shows the diff between the current state of the file and the last state of the file. Mabye I would use it more in the future, in that case, disregad this
 - [ ] look into adding `nvim-web-devicons` plugin
+- [ ] Look into displaying function information when entering function arguments, this is probably an option in cmp-nvim, lsp-config, or another lsp related configuration.
