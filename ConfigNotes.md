@@ -18,3 +18,5 @@
 - [ ] Look into replacing nvim-cmp with [blink.cmp](https://github.com/Saghen/blink.cmp).
 - [ ] Replace luasnip with built in snippets.
 - [ ] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
+- [ ] Look into mabye adding flash.nvim like pluging.
+- [ ] Look into mabye adding mini.surround like plugin.
