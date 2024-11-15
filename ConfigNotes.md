@@ -8,9 +8,13 @@
 - [ ] Look into adding [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) to config.
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
-    - [ ] Get copilot free student trial either with my school email or with Chris's.
-- [ ] Look into changing codeium/copilot suggestions to the autocomplete menue insthead of ghost text suggestions.
+    - [x] Get copilot free student trial either with my school email or with Chris's.
+    - [ ] Add copilot as the chat provider.
+- [ ] Replace codeium with copilot.
+    - [ ] Add [colopilot-cmp](https://github.com/zbirenbaum/copilot-cmp) to make copilot appear in the autocomplete menu insthead of ghost text.
 - [ ] Remove diff window in undotree. This window is the window below the undotree window, it shows the diff between the current state of the file and the last state of the file. Mabye I would use it more in the future, in that case, disregad this
-- [ ] look into adding `nvim-web-devicons` plugin
+- [ ] Look into mabye adding `nvim-web-devicons` plugin.
 - [ ] Look into displaying function information when entering function arguments, this is probably an option in cmp-nvim, lsp-config, or another lsp related configuration.
-- [ ] Look into adding [blink.cmp](https://github.com/Saghen/blink.cmp).
+- [ ] Look into replacing nvim-cmp with [blink.cmp](https://github.com/Saghen/blink.cmp).
+- [ ] Replace luasnip with built in snippets.
+- [ ] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
