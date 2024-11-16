@@ -20,3 +20,4 @@
 - [ ] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
 - [ ] Look into mabye adding flash.nvim like pluging.
 - [ ] Look into mabye adding mini.surround like plugin.
+- [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
