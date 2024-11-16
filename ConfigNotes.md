@@ -10,7 +10,7 @@
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
     - [x] Get copilot free student trial either with my school email or with Chris's.
     - [ ] Add copilot as the chat provider.
-- [ ] Replace codeium with copilot.
+- [ ] Replace codeium with copilot (copilot.lua).
     - [ ] Add [colopilot-cmp](https://github.com/zbirenbaum/copilot-cmp) to make copilot appear in the autocomplete menu insthead of ghost text.
 - [ ] Remove diff window in undotree. This window is the window below the undotree window, it shows the diff between the current state of the file and the last state of the file. Mabye I would use it more in the future, in that case, disregad this
 - [ ] Look into mabye adding `nvim-web-devicons` plugin.
@@ -21,3 +21,4 @@
 - [ ] Look into mabye adding flash.nvim like pluging.
 - [ ] Look into mabye adding mini.surround like plugin.
 - [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
+- [ ] Add bubble theme to lualine.
