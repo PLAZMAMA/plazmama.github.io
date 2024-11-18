@@ -22,3 +22,4 @@
 - [ ] Look into mabye adding mini.surround like plugin.
 - [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
 - [ ] Add bubble theme to lualine.
+- [ ] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
