@@ -24,3 +24,5 @@
 - [ ] Add bubble theme to lualine.
 - [ ] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
 - [ ] Add jupyter notebook plugin.
+- [ ] Fix wezterm default font size.
+- [ ] Figure out how to remove the tab background in Wezterm.
