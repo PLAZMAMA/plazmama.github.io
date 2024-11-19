@@ -26,3 +26,4 @@
 - [ ] Add jupyter notebook plugin.
 - [ ] Fix wezterm default font size.
 - [ ] Figure out how to remove the tab background in Wezterm.
+- [ ] Look into adding a window manager for harpoon like movement between apps.
