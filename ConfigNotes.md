@@ -4,7 +4,7 @@
 - [ ] Upgrade lazy.nvim
 - [ ] Remove unused terminal toggle.
 - [ ] Look into basedpyright and ruff. Mabye replaced pyright and black with them.
-- [ ] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) to config.
+- [ ] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) or [mini.ai](https://github.com/echasnovski/mini.ai) to config.
 - [ ] Look into adding [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) to config.
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
