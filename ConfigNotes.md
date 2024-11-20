@@ -28,3 +28,4 @@
 - [ ] Figure out how to remove the tab background in Wezterm.
 - [ ] Look into adding a window manager for harpoon like movement between apps.
 - [ ] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
+- [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
