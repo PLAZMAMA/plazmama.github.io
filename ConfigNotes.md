@@ -29,4 +29,4 @@
 - [ ] Look into adding a window manager for harpoon like movement between apps.
 - [ ] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
-- [ ] Refactor plugin installation to best practices specified in [Lazy Best Practices](https://lazy.folke.io/developers)
+- [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
