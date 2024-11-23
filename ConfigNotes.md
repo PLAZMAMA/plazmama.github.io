@@ -30,3 +30,4 @@
 - [ ] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
 - [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
+- [ ] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :).
