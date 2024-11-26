@@ -32,3 +32,4 @@
 - [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
 - [ ] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :).
 - [ ] Look at [Auto Debug Print](https://github.com/andrewferrier/debugprint.nvim) for print debugging macros(basically).
+- [ ] Replace [trouble.nvim](https://github.com/folke/trouble.nvim) with previous context plugin [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
