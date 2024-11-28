@@ -34,3 +34,4 @@
 - [ ] Look at [Auto Debug Print](https://github.com/andrewferrier/debugprint.nvim) for print debugging macros(basically).
 - [ ] Replace [trouble.nvim](https://github.com/folke/trouble.nvim) with previous context plugin [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
 - [ ] Remove autoformat on save for conform.nvim
+- [ ] See if removing lualine is possible and just having the default statusline but with mode, git branch, file name, current position in file, and harpoon mark indicatior.
