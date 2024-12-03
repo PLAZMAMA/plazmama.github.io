@@ -26,7 +26,7 @@
 - [ ] Add jupyter notebook plugin.
 - [ ] Fix wezterm default font size.
 - [ ] Figure out how to remove the tab background in Wezterm.
-- [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver).
+- [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with this guide [i3 to mac guide](https://blog.sergem.net/moving-from-i3-to-macos-with-minimum-pain/).
 - [ ] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
 - [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
