@@ -33,6 +33,6 @@
 - [ ] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :), Resources: [optimizing startup time reddit](https://www.reddit.com/r/neovim/comments/117zfq2/optimizing_my_startup_time/).
 - [ ] Look at [Auto Debug Print](https://github.com/andrewferrier/debugprint.nvim) for print debugging macros(basically).
 - [ ] Replace [trouble.nvim](https://github.com/folke/trouble.nvim) with previous context plugin [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
-- [ ] Remove autoformat on save for conform.nvim
+- [ ] Remove autoformat on save for conform.nvim since "<leader>f" is used for formatting already.
 - [ ] See if removing lualine is possible and just having the default statusline but with mode, git branch, file name, current position in file, and harpoon mark indicatior.
 - [ ] Look into adding [line number chahnge](https://github.com/sethen/line-number-change-mode.nvim)
