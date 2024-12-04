@@ -36,3 +36,4 @@
 - [ ] Remove autoformat on save for conform.nvim since "<leader>f" is used for formatting already.
 - [ ] See if removing lualine is possible and just having the default statusline but with mode, git branch, file name, current position in file, and harpoon mark indicatior.
 - [ ] Look into adding [line number chahnge](https://github.com/sethen/line-number-change-mode.nvim)
+- [ ] Remove "<leader>/"(Fuzzily search in current buffer) keybinding as it is unused.
