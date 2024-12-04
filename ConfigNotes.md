@@ -21,7 +21,7 @@
 - [ ] Look into mabye adding flash.nvim like pluging.
 - [ ] Look into mabye adding mini.surround like plugin.
 - [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
-- [ ] Add bubble theme to lualine.
+- [ ] Add cutom "bubble theme" to lualine and figure out how to remove the black background from it.
 - [ ] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
 - [ ] Add jupyter notebook plugin.
 - [ ] Fix wezterm default font size.
