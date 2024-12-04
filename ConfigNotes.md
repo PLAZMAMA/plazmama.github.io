@@ -1,6 +1,6 @@
 # Things to Change About My Current Neovim Config
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
-- [ ] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section.
+- [ ] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section. The leftover section will be replaces with Harpoon mark indicator.
 - [ ] Upgrade lazy.nvim
 - [ ] Remove unused terminal toggle.
 - [ ] Look into basedpyright and ruff. Mabye replaced pyright and black with them.
