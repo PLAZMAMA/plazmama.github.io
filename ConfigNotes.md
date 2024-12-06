@@ -2,7 +2,6 @@
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [ ] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section. The leftover section will be replaces with Harpoon mark indicator.
 - [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
-- [ ] Add cutom "bubble theme" to lualine and figure out how to remove the black background from it.
 - [ ] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
 - [ ] Upgrade lazy.nvim
 - [ ] Remove unused terminal toggle.
