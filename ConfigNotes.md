@@ -1,6 +1,9 @@
 # Things to Change About My Current Neovim Config
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [ ] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section. The leftover section will be replaces with Harpoon mark indicator.
+- [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
+- [ ] Add cutom "bubble theme" to lualine and figure out how to remove the black background from it.
+- [ ] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
 - [ ] Upgrade lazy.nvim
 - [ ] Remove unused terminal toggle.
 - [ ] Look into basedpyright and ruff. Mabye replaced pyright and black with them.
@@ -20,8 +23,6 @@
 - [ ] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
 - [ ] Look into mabye adding flash.nvim like pluging.
 - [ ] Look into mabye adding mini.surround like plugin.
-- [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
-- [ ] Add cutom "bubble theme" to lualine and figure out how to remove the black background from it.
 - [ ] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
 - [ ] Add jupyter notebook plugin.
 - [ ] Fix wezterm default font size.
@@ -42,4 +43,3 @@
 ```lua
 vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
 ```
-- [ ] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
