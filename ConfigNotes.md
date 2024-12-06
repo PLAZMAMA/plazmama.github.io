@@ -22,7 +22,6 @@
 - [ ] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
 - [ ] Look into mabye adding flash.nvim like pluging.
 - [ ] Look into mabye adding mini.surround like plugin.
-- [ ] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
 - [ ] Add jupyter notebook plugin.
 - [ ] Fix wezterm default font size.
 - [ ] Figure out how to remove the tab background in Wezterm.
@@ -42,3 +41,5 @@
 ```lua
 vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
 ```
+# Completed Changes
+- [ ] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
