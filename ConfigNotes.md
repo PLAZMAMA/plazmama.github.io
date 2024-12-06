@@ -42,5 +42,4 @@
 ```lua
 vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
 ```
-- [ ] Merge Wezterms tab bar with Lualine [example of someone mergin it with another plugin](https://github.com/wez/wezterm/issues/2167)
 - [ ] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
