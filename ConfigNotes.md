@@ -38,3 +38,8 @@
 - [ ] Look into adding [line number chahnge](https://github.com/sethen/line-number-change-mode.nvim)
 - [ ] Remove "<leader>/"(Fuzzily search in current buffer) keybinding as it is unused.
 - [ ] Look into adding [octo.nvim](https://github.com/pwntester/octo.nvim)
+- [ ] Add builtin telescope keymap search by adding the following:
+```lua
+vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
+```
+```
