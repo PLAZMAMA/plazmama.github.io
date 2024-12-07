@@ -41,5 +41,7 @@
 ```lua
 vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
 ```
+- [ ] Add git commit current file only (gc), git commit all files (gca), push(gp), pull(gpl), git log(gl), and git log local(gll) editor command shortcuts.
+
 # Completed Changes
 - [ ] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
