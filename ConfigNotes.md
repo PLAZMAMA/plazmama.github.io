@@ -26,7 +26,6 @@
 - [ ] Fix wezterm default font size.
 - [ ] Figure out how to remove the tab background in Wezterm.
 - [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with [proco spoon window switcher](https://github.com/Porco-Rosso/PorcoSpoon/tree/main) or [app window switcher](https://www.hammerspoon.org/Spoons/AppWindowSwitcher.html#bindHotkeys).
-- [ ] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
 - [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
 - [ ] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :), Resources: [optimizing startup time reddit](https://www.reddit.com/r/neovim/comments/117zfq2/optimizing_my_startup_time/).
@@ -44,6 +43,5 @@
 vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
 ```
 - [ ] Add git commit current file only (gc), git commit all files (gca), push(gp), pull(gpl), git log(gl), and git log local(gll) editor command shortcuts.
-
-# Completed Changes
-- [ ] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
+- [x] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
+- [x] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
