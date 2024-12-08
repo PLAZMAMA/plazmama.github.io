@@ -43,5 +43,6 @@
 vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
 ```
 - [ ] Add git commit current file only (gc), git commit all files (gca), push(gp), pull(gpl), git log(gl), and git log local(gll) editor command shortcuts.
+- [ ] Remove `<leader>pv` as it is redundant to `:Explore`, add command shortcut for `:e .` and `:e current file dir`.
 - [x] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
 - [x] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
