@@ -42,6 +42,8 @@
 ```lua
 vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
 ```
+- [ ] Change `<leader>ss` to `<leader>st` (Search Select Telescope).
+- [ ] Change `<leader>ds` to `<leader>ss` (Search Document Symbols).
 - [ ] Switch to "smart" layout in telescope.
 - [ ] Add git commit current file only (gc), git commit all files (gca), push(gp), pull(gpl), git log(gl), and git log local(gll) editor command shortcuts.
 - [ ] Remove `<leader>pv` as it is redundant to `:Explore`, add command shortcut for `:e .` and `:e current file dir`.
