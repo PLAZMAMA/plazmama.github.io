@@ -4,7 +4,6 @@
 - [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
 - [ ] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
 - [ ] Upgrade lazy.nvim
-- [ ] Remove unused terminal toggle.
 - [ ] Look into basedpyright and ruff. Mabye replaced pyright and black with them.
 - [ ] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) or [mini.ai](https://github.com/echasnovski/mini.ai) to config.
 - [ ] Look into adding [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) to config.
