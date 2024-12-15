@@ -49,5 +49,6 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [ ] Remove `<leader>pv` as it is redundant to `:Explore`, add command shortcut for `:e .` and `:e current file dir`.
 - [ ] Convert the bindings shown in this video to Lua and add it in the core/keymaps.lua [moving text up and down video](https://www.youtube.com/watch?v=gNyNm5DsQ88&t=6s)
 - [ ] Remove 90 charater line red text highlight. Think of a less intrusive way to do this, mabye a line at the 80th column like the primeagen's.
+- [ ] Update Lazy installation with the non depercated function.
 - [x] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
 - [x] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
