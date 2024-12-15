@@ -51,5 +51,6 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [ ] Remove 90 charater line red text highlight. Think of a less intrusive way to do this, mabye a line at the 80th column like the primeagen's.
 - [ ] Update Lazy installation with the non depercated function.
 - [ ] Seperate `tpope/vim-sleuth`, `tpope/vim-rhubarb`, `tpope/vim-fugitive` into their own seperate files.
+- [ ] Make tiptools transperant with the tokyonight colorscheme.
 - [x] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
 - [x] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
