@@ -38,19 +38,19 @@
 - [ ] Look into adding [line number chahnge](https://github.com/sethen/line-number-change-mode.nvim)
 - [ ] Remove "<leader>/"(Fuzzily search in current buffer) keybinding as it is unused.
 - [ ] Look into adding [octo.nvim](https://github.com/pwntester/octo.nvim)
-- [ ] Add builtin telescope keymap search by adding the following:
-```lua
-vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
-```
-- [ ] Change `<leader>ss` to `<leader>st` (Search Select Telescope).
-- [ ] Change `<leader>ds` to `<leader>ss` (Search Document Symbols).
 - [ ] Switch to "smart" layout in telescope.
-- [ ] Add git commit current file only (gc), git commit all files (gca), push(gp), pull(gpl), git log(gl), and git log local(gll) editor command shortcuts.
-- [ ] Remove `<leader>pv` as it is redundant to `:Explore`, add command shortcut for `:e .` and `:e current file dir`.
 - [ ] Convert the bindings shown in this video to Lua and add it in the core/keymaps.lua [moving text up and down video](https://www.youtube.com/watch?v=gNyNm5DsQ88&t=6s)
 - [ ] Remove 90 charater line red text highlight. Think of a less intrusive way to do this, mabye a line at the 80th column like the primeagen's.
 - [ ] Update Lazy installation with the non depercated function.
-- [ ] Seperate `tpope/vim-sleuth`, `tpope/vim-rhubarb`, `tpope/vim-fugitive` into their own seperate files.
 - [ ] Make tiptools transperant with the tokyonight colorscheme.
+- [x] Add git commit current file only (gc), git commit all files (gca), push(gp), pull(gpl), git log(gl), and git log local(gll) editor command shortcuts.
+- [x] Remove `<leader>pv` as it is redundant to `:Explore`, add command shortcut for `:e .` and `:e current file dir`.
 - [x] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
 - [x] Replace fzy-lua with [fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) for telescope.
+- [x] Add builtin telescope keymap search by adding the following:
+```lua
+vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps' })
+```
+- [x] Change `<leader>ss` to `<leader>st` (Search Select Telescope).
+- [x] Change `<leader>ds` to `<leader>ss` (Search Document Symbols).
+- [x] Seperate `tpope/vim-sleuth`, `tpope/vim-rhubarb`, `tpope/vim-fugitive` into their own seperate files.
