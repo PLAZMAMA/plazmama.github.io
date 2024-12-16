@@ -1,6 +1,5 @@
 [#](#) Things to Change About My Current Neovim Config
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
-- [ ] Add terminal workflow of press keymap `something`, terminal open up and runs build&run command, press keymap to toggle out of it. 
 - [ ] Move LSP diagnostics lualine component to the left side and recalculate the centering algorithm needed.
 - [ ] Upgrade lazy.nvim
 - [ ] Use basedpyright and ruff insthead of black and Pyright.
@@ -55,3 +54,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
 - [x] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
 - [x] See if removing lualine is possible and just having the default statusline but with mode, git branch, file name, current position in file, and harpoon mark indicatior.
+- [x] Add terminal workflow of press keymap `something`, terminal open up and runs build&run command, press keymap to toggle out of it. 
