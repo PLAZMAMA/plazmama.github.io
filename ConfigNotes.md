@@ -1,6 +1,7 @@
 [#](#) Things to Change About My Current Neovim Config
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [ ] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section. The leftover section will be replaces with Harpoon mark indicator.
+- [ ] Add terminal workflow of press keymap `something`, terminal open up and runs build&run command, press keymap to toggle out of it. 
 - [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
 - [ ] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
 - [ ] Upgrade lazy.nvim
