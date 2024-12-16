@@ -20,7 +20,6 @@
 - [ ] Look into mabye adding mini.surround like plugin.
 - [ ] Add jupyter notebook plugin.
 - [ ] Fix wezterm default font size.
-- [ ] Figure out how to remove the tab background in Wezterm.
 - [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with [proco spoon window switcher](https://github.com/Porco-Rosso/PorcoSpoon/tree/main) or [app window switcher](https://www.hammerspoon.org/Spoons/AppWindowSwitcher.html#bindHotkeys).
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
 - [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
@@ -35,7 +34,7 @@
 - [ ] Look into adding [octo.nvim](https://github.com/pwntester/octo.nvim)
 - [ ] Switch to "smart" layout in telescope.
 - [ ] Convert the bindings shown in this video to Lua and add it in the core/keymaps.lua [moving text up and down video](https://www.youtube.com/watch?v=gNyNm5DsQ88&t=6s)
-- [ ] Remove 90 charater line red text highlight. Think of a less intrusive way to do this, mabye a line at the 80th column like the primeagen's.
+- [ ] Think of a less intrusive way to do this, mabye a line at the 80th column like the primeagen's.
 - [ ] Update Lazy installation with the non depercated function.
 - [ ] Make tiptools transperant with the tokyonight colorscheme.
 - [x] Add git commit current file only (gc), git commit all files (gca), push(gp), pull(gpl), git log(gl), and git log local(gll) editor command shortcuts.
@@ -53,3 +52,5 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Remove diff window in undotree. This window is the window below the undotree window, it shows the diff between the current state of the file and the last state of the file. Mabye I would use it more in the future, in that case, disregad this
 - [x] Look into adding [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) to config.
 - [x] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) or [mini.ai](https://github.com/echasnovski/mini.ai) to config.
+- [x] Remove 90 charater line red text highlight.
+- [x] Figure out how to remove the tab background in Wezterm.
