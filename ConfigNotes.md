@@ -1,9 +1,6 @@
 [#](#) Things to Change About My Current Neovim Config
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
-- [ ] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section. The leftover section will be replaces with Harpoon mark indicator.
 - [ ] Add terminal workflow of press keymap `something`, terminal open up and runs build&run command, press keymap to toggle out of it. 
-- [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
-- [ ] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
 - [ ] Upgrade lazy.nvim
 - [ ] Look into basedpyright and ruff. Mabye replaced pyright and black with them.
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
@@ -54,3 +51,6 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Switch to "smart" layout in telescope.
 - [x] Look into mabye adding [mini.surround](https://github.com/echasnovski/mini.surround).
 - [x] Replace [trouble.nvim](https://github.com/folke/trouble.nvim) with previous context plugin [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
+- [x] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section. The leftover section will be replaces with Harpoon mark indicator.
+- [x] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
+- [x] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
