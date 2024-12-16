@@ -19,7 +19,6 @@
 - [ ] Look into mabye adding flash.nvim like pluging.
 - [ ] Look into mabye adding mini.surround like plugin.
 - [ ] Add jupyter notebook plugin.
-- [ ] Fix wezterm default font size.
 - [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with [proco spoon window switcher](https://github.com/Porco-Rosso/PorcoSpoon/tree/main) or [app window switcher](https://www.hammerspoon.org/Spoons/AppWindowSwitcher.html#bindHotkeys).
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
 - [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
@@ -54,3 +53,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) or [mini.ai](https://github.com/echasnovski/mini.ai) to config.
 - [x] Remove 90 charater line red text highlight.
 - [x] Figure out how to remove the tab background in Wezterm.
+- [x] Fix wezterm default font size.
