@@ -2,7 +2,7 @@
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [ ] Add terminal workflow of press keymap `something`, terminal open up and runs build&run command, press keymap to toggle out of it. 
 - [ ] Upgrade lazy.nvim
-- [ ] Look into basedpyright and ruff. Mabye replaced pyright and black with them.
+- [ ] Look into basedpyright and ruff. Mabye replaced pyright and black with them. Mabye just use Ruff for everything
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
     - [x] Get copilot free student trial either with my school email or with Chris's.
