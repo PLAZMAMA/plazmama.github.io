@@ -29,7 +29,6 @@
 - [ ] Look into adding [line number chahnge](https://github.com/sethen/line-number-change-mode.nvim)
 - [ ] Remove "<leader>/"(Fuzzily search in current buffer) keybinding as it is unused.
 - [ ] Look into adding [octo.nvim](https://github.com/pwntester/octo.nvim)
-- [ ] Switch to "smart" layout in telescope.
 - [ ] Convert the bindings shown in this video to Lua and add it in the core/keymaps.lua [moving text up and down video](https://www.youtube.com/watch?v=gNyNm5DsQ88&t=6s)
 - [ ] Think of a less intrusive way to do this, mabye a line at the 80th column like the primeagen's.
 - [ ] Update Lazy installation with the non depercated function.
@@ -53,3 +52,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Figure out how to remove the tab background in Wezterm.
 - [x] Fix wezterm default font size.
 - [x] Remove autoformat on save for conform.nvim since "<leader>f" is used for formatting already.
+- [x] Switch to "smart" layout in telescope.
