@@ -5,7 +5,6 @@
 - [ ] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
 - [ ] Upgrade lazy.nvim
 - [ ] Look into basedpyright and ruff. Mabye replaced pyright and black with them.
-- [ ] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) or [mini.ai](https://github.com/echasnovski/mini.ai) to config.
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
     - [x] Get copilot free student trial either with my school email or with Chris's.
@@ -53,3 +52,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
     - [x] Lazy load vim-wiki on keymap
 - [x] Remove diff window in undotree. This window is the window below the undotree window, it shows the diff between the current state of the file and the last state of the file. Mabye I would use it more in the future, in that case, disregad this
 - [x] Look into adding [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) to config.
+- [x] Look into adding [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) or [mini.ai](https://github.com/echasnovski/mini.ai) to config.
