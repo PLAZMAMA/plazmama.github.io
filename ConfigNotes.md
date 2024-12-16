@@ -1,4 +1,4 @@
-# Things to Change About My Current Neovim Config
+[#](#) Things to Change About My Current Neovim Config
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [ ] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section. The leftover section will be replaces with Harpoon mark indicator.
 - [ ] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
@@ -13,7 +13,6 @@
     - [ ] Add copilot as the chat provider.
 - [ ] Replace codeium with copilot (copilot.lua).
     - [ ] Add [colopilot-cmp](https://github.com/zbirenbaum/copilot-cmp) to make copilot appear in the autocomplete menu insthead of ghost text.
-- [ ] Remove diff window in undotree. This window is the window below the undotree window, it shows the diff between the current state of the file and the last state of the file. Mabye I would use it more in the future, in that case, disregad this
 - [ ] Look into mabye adding `nvim-web-devicons` plugin.
 - [ ] Look into displaying function information when entering function arguments, this is probably an option in cmp-nvim, lsp-config, or another lsp related configuration.
 - [ ] Look into replacing nvim-cmp with [blink.cmp](https://github.com/Saghen/blink.cmp).
@@ -53,3 +52,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Change `<leader>ds` to `<leader>ss` (Search Document Symbols).
 - [x] Seperate `tpope/vim-sleuth`, `tpope/vim-rhubarb`, `tpope/vim-fugitive` into their own seperate files.
     - [x] Lazy load vim-wiki on keymap
+- [x] Remove diff window in undotree. This window is the window below the undotree window, it shows the diff between the current state of the file and the last state of the file. Mabye I would use it more in the future, in that case, disregad this
