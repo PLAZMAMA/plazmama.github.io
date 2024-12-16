@@ -1,6 +1,7 @@
 [#](#) Things to Change About My Current Neovim Config
 - [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [ ] Add terminal workflow of press keymap `something`, terminal open up and runs build&run command, press keymap to toggle out of it. 
+- [ ] Move LSP diagnostics lualine component to the left side and recalculate the centering algorithm needed.
 - [ ] Upgrade lazy.nvim
 - [ ] Use basedpyright and ruff insthead of black and Pyright.
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
@@ -21,7 +22,6 @@
 - [ ] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :), Resources: [optimizing startup time reddit](https://www.reddit.com/r/neovim/comments/117zfq2/optimizing_my_startup_time/).
     - [ ] Lazy load telescope on keymap
 - [ ] Look at [Auto Debug Print](https://github.com/andrewferrier/debugprint.nvim) for print debugging macros(basically).
-- [ ] See if removing lualine is possible and just having the default statusline but with mode, git branch, file name, current position in file, and harpoon mark indicatior.
 - [ ] Look into adding [line number chahnge](https://github.com/sethen/line-number-change-mode.nvim)
 - [ ] Remove "<leader>/"(Fuzzily search in current buffer) keybinding as it is unused.
 - [ ] Look into adding [octo.nvim](https://github.com/pwntester/octo.nvim)
@@ -54,3 +54,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Change left most section of lualine with the current time and move `{line_num}:{column_num}` to the %{percent} section. The leftover section will be replaces with Harpoon mark indicator.
 - [x] Refactor lualine harpoon autocommands following [TJ's Guide](https://www.youtube.com/watch?v=ekMIIAqTZ34&list=WL&index=89)
 - [x] Add harpoon files and their corresponding number to lualine. Same as wezterm's tab bar.
+- [x] See if removing lualine is possible and just having the default statusline but with mode, git branch, file name, current position in file, and harpoon mark indicatior.
