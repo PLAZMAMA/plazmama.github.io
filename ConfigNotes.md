@@ -16,7 +16,6 @@
 - [ ] Look into replacing nvim-cmp with [blink.cmp](https://github.com/Saghen/blink.cmp).
 - [ ] Replace luasnip with built in snippets.
 - [ ] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
-- [ ] Look into mabye adding [mini.surround](https://github.com/echasnovski/mini.surround).
 - [ ] Add jupyter notebook plugin.
 - [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with [proco spoon window switcher](https://github.com/Porco-Rosso/PorcoSpoon/tree/main) or [app window switcher](https://www.hammerspoon.org/Spoons/AppWindowSwitcher.html#bindHotkeys).
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
@@ -53,3 +52,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Fix wezterm default font size.
 - [x] Remove autoformat on save for conform.nvim since "<leader>f" is used for formatting already.
 - [x] Switch to "smart" layout in telescope.
+- [x] Look into mabye adding [mini.surround](https://github.com/echasnovski/mini.surround).
