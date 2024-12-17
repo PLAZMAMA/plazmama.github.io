@@ -17,7 +17,6 @@
 - [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with [proco spoon window switcher](https://github.com/Porco-Rosso/PorcoSpoon/tree/main) or [app window switcher](https://www.hammerspoon.org/Spoons/AppWindowSwitcher.html#bindHotkeys).
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
 - [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
-- [ ] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :), Resources: [optimizing startup time reddit](https://www.reddit.com/r/neovim/comments/117zfq2/optimizing_my_startup_time/).
     - [ ] Lazy load telescope on keymap
 - [ ] Look at [Auto Debug Print](https://github.com/andrewferrier/debugprint.nvim) for print debugging macros(basically).
 - [ ] Look into adding [line number chahnge](https://github.com/sethen/line-number-change-mode.nvim)
@@ -55,3 +54,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] See if removing lualine is possible and just having the default statusline but with mode, git branch, file name, current position in file, and harpoon mark indicatior.
 - [x] Add terminal workflow of press keymap `something`, terminal open up and runs build&run command, press keymap to toggle out of it. 
 - [x] Move LSP diagnostics lualine component to the left side and recalculate the centering algorithm needed.
+- [x] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :), Resources: [optimizing startup time reddit](https://www.reddit.com/r/neovim/comments/117zfq2/optimizing_my_startup_time/).
