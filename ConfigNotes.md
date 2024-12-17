@@ -6,7 +6,6 @@
     - [ ] Add copilot as the chat provider.
 - [ ] Replace codeium with copilot (copilot.lua).
     - [ ] Add [colopilot-cmp](https://github.com/zbirenbaum/copilot-cmp) to make copilot appear in the autocomplete menu insthead of ghost text.
-- [ ] Look into mabye adding `nvim-web-devicons` plugin.
 - [ ] Look into displaying function information when entering function arguments, this is probably an option in cmp-nvim, lsp-config, or another lsp related configuration.
 - [ ] Look into replacing nvim-cmp with [blink.cmp](https://github.com/Saghen/blink.cmp).
 - [ ] Replace luasnip with blin.cmp with friendly snippets.
@@ -55,3 +54,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :), Resources: [optimizing startup time reddit](https://www.reddit.com/r/neovim/comments/117zfq2/optimizing_my_startup_time/).
 - [x] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [x] Use basedpyright and ruff insthead of black and Pyright.
+- [x] Look into mabye adding `nvim-web-devicons` plugin.
