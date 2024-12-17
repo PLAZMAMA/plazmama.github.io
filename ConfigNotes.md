@@ -1,5 +1,6 @@
 [#](#) Things to Change About My Current Neovim Config
 - [ ] Upgrade lazy.nvim
+- [ ] Find the generic forumla for the lualine marked files centering algorithm.
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
     - [x] Get copilot free student trial either with my school email or with Chris's.
