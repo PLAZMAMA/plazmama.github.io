@@ -1,5 +1,4 @@
 [#](#) Things to Change About My Current Neovim Config
-- [ ] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [ ] Upgrade lazy.nvim
 - [ ] Use basedpyright and ruff insthead of black and Pyright.
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
@@ -55,3 +54,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Add terminal workflow of press keymap `something`, terminal open up and runs build&run command, press keymap to toggle out of it. 
 - [x] Move LSP diagnostics lualine component to the left side and recalculate the centering algorithm needed.
 - [x] Optimize lazy config for a faster startup. Try to get below 70 ms, the more the better though :), Resources: [optimizing startup time reddit](https://www.reddit.com/r/neovim/comments/117zfq2/optimizing_my_startup_time/).
+- [x] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
