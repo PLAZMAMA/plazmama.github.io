@@ -11,7 +11,7 @@
 - [ ] Look into mabye adding `nvim-web-devicons` plugin.
 - [ ] Look into displaying function information when entering function arguments, this is probably an option in cmp-nvim, lsp-config, or another lsp related configuration.
 - [ ] Look into replacing nvim-cmp with [blink.cmp](https://github.com/Saghen/blink.cmp).
-- [ ] Replace luasnip with built in snippets.
+- [ ] Replace luasnip with blin.cmp with friendly snippets.
 - [ ] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
 - [ ] Add jupyter notebook plugin.
 - [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with [proco spoon window switcher](https://github.com/Porco-Rosso/PorcoSpoon/tree/main) or [app window switcher](https://www.hammerspoon.org/Spoons/AppWindowSwitcher.html#bindHotkeys).
