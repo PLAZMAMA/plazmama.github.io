@@ -2,6 +2,7 @@
 - [ ] Upgrade lazy.nvim
 - [ ] Find the generic forumla for the lualine marked files centering algorithm.
 - [ ] Remove "--Insert--" from the command window column because its already in the statusline.
+- [ ] Add mini.files plugin.
 - [ ] Add Debugger via [nvim-dap](https://github.com/mfussenegger/nvim-dap) and [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
