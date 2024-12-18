@@ -12,7 +12,6 @@
 - [ ] Replace luasnip with blink.cmp with friendly snippets.
 - [ ] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
 - [ ] Add jupyter notebook plugin.
-- [ ] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with [proco spoon window switcher](https://github.com/Porco-Rosso/PorcoSpoon/tree/main) or [app window switcher](https://www.hammerspoon.org/Spoons/AppWindowSwitcher.html#bindHotkeys).
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
 - [ ] Add lockfile to version control as specified in [Lockfile usage](https://lazy.folke.io/usage/lockfile)
     - [ ] Lazy load telescope on keymap
@@ -56,3 +55,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Look into replacing harpoon with this plugin: [arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)
 - [x] Use basedpyright and ruff insthead of black and Pyright.
 - [x] Look into mabye adding `nvim-web-devicons` plugin.
+- [x] Look into adding a window manager for harpoon like movement between apps the best option seems to be: [quick silver](https://github.com/quicksilver/Quicksilver) or [hammer spoon](https://github.com/Hammerspoon/hammerspoon) with [proco spoon window switcher](https://github.com/Porco-Rosso/PorcoSpoon/tree/main) or [app window switcher](https://www.hammerspoon.org/Spoons/AppWindowSwitcher.html#bindHotkeys).
