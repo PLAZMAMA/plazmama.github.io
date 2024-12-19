@@ -2,7 +2,6 @@
 - [ ] Upgrade lazy.nvim
 - [ ] Find the generic forumla for the lualine marked files centering algorithm.
 - [ ] Add mini.files plugin.
-- [ ] Add Debugger via [nvim-dap](https://github.com/mfussenegger/nvim-dap) and [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
 - [ ] Look into enabling [codecompanion](https://github.com/olimorris/codecompanion.nvim/tree/main)
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
     - [x] Get copilot free student trial either with my school email or with Chris's.
@@ -61,3 +60,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] move lsp configuration from mason file to lsp-config file.
 - [x] Remove "--Insert--" from the command window column because its already in the statusline.
 - [x] Add the following python snippet to friendly snippets `"intr", "interact(local=locals())"`.
+- [x] Add Debugger via [nvim-dap](https://github.com/mfussenegger/nvim-dap) and [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
