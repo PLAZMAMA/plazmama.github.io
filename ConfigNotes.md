@@ -1,7 +1,6 @@
 [#](#) Things to Change About My Current Neovim Config
 - [ ] Upgrade lazy.nvim
 - [ ] Find the generic forumla for the lualine marked files centering algorithm.
-- [ ] move lsp configuration from mason file to lsp-config file.
 - [ ] Remove "--Insert--" from the command window column because its already in the statusline.
 - [ ] Add the following python snippet to friendly snippets `"intr", "interact(local=locals())"`.
 - [ ] Add mini.files plugin.
@@ -11,7 +10,7 @@
     - [x] Get copilot free student trial either with my school email or with Chris's.
     - [ ] Add copilot as the chat provider.
 - [ ] Replace codeium with copilot (copilot.lua).
-    - [ ] Add [colopilot-cmp](https://github.com/zbirenbaum/copilot-cmp) to make copilot appear in the autocomplete menu insthead of ghost text.
+    - [ ] Add colopilot-blink.cmp to make copilot appear in the autocomplete menu insthead of ghost text.
 - [ ] Look into displaying function information when entering function arguments, this is probably an option in cmp-nvim, lsp-config, or another lsp related configuration.
 - [ ] Add jupyter notebook plugin.
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
@@ -61,3 +60,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Look into replacing nvim-cmp with [blink.cmp](https://github.com/Saghen/blink.cmp).
 - [x] Replace luasnip with blink.cmp with friendly snippets.
 - [x] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
+- [x] move lsp configuration from mason file to lsp-config file.
