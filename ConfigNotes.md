@@ -1,7 +1,6 @@
 [#](#) Things to Change About My Current Neovim Config
 - [ ] Upgrade lazy.nvim
 - [ ] Find the generic forumla for the lualine marked files centering algorithm.
-- [ ] Remove "--Insert--" from the command window column because its already in the statusline.
 - [ ] Add the following python snippet to friendly snippets `"intr", "interact(local=locals())"`.
 - [ ] Add mini.files plugin.
 - [ ] Add Debugger via [nvim-dap](https://github.com/mfussenegger/nvim-dap) and [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
@@ -61,3 +60,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Replace luasnip with blink.cmp with friendly snippets.
 - [x] Change completion keybinding from `<TAB>` or `<C-a>` to `<C-y>`.
 - [x] move lsp configuration from mason file to lsp-config file.
+- [x] Remove "--Insert--" from the command window column because its already in the statusline.
