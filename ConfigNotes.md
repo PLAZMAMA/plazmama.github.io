@@ -5,7 +5,6 @@
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
     - [x] Get copilot free student trial either with my school email or with Chris's.
     - [ ] Add copilot as the chat provider.
-- [ ] Replace codeium with copilot (copilot.lua).
     - [ ] Add colopilot-blink.cmp to make copilot appear in the autocomplete menu insthead of ghost text.
 - [ ] Look into displaying function information when entering function arguments, this is probably an option in cmp-nvim, lsp-config, or another lsp related configuration.
 - [ ] Add jupyter notebook plugin.
@@ -61,3 +60,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Add the following python snippet to friendly snippets `"intr", "interact(local=locals())"`.
 - [x] Add mini.files plugin.
 - [x] Add Debugger via [nvim-dap](https://github.com/mfussenegger/nvim-dap) and [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
+- [x] Replace codeium with copilot (copilot.lua).
