@@ -20,7 +20,6 @@
 - [ ] Think of a less intrusive way to do this, mabye a line at the 80th column like the primeagen's.
 - [ ] Update Lazy installation with the non depercated function.
 - [ ] Make tiptools transperant with the tokyonight colorscheme.
-- [ ] Add Debugger via [nvim-dap](https://github.com/mfussenegger/nvim-dap) and [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
 - [x] Add git commit current file only (gc), git commit all files (gca), push(gp), pull(gpl), git log(gl), and git log local(gll) editor command shortcuts.
 - [x] Remove `<leader>pv` as it is redundant to `:Explore`, add command shortcut for `:e .` and `:e current file dir`.
 - [x] Switch ESC and CAPS LOCK key mappings(in mac somehow, its not really related to neovim, but whatever).
@@ -61,3 +60,4 @@ vim.keymap.set('n', '<leader>sk', builtin.keymaps, { desc = '[S]earch [K]eymaps'
 - [x] Remove "--Insert--" from the command window column because its already in the statusline.
 - [x] Add the following python snippet to friendly snippets `"intr", "interact(local=locals())"`.
 - [x] Add mini.files plugin.
+- [x] Add Debugger via [nvim-dap](https://github.com/mfussenegger/nvim-dap) and [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
