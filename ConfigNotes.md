@@ -5,7 +5,7 @@
     - [ ] Look at this configuration for ideas: [custom config from reddit](https://github.com/oca159/lazyvim/blob/main/lua/plugins/codecompanion.lua)
     - [x] Get copilot free student trial either with my school email or with Chris's.
     - [ ] Add copilot as the chat provider.
-    - [ ] Add colopilot-blink.cmp to make copilot appear in the autocomplete menu insthead of ghost text.
+- [ ] Add colopilot-blink.cmp to make copilot appear in the autocomplete menu insthead of ghost text. (and enable it back again)
 - [ ] Look into displaying function information when entering function arguments, this is probably an option in cmp-nvim, lsp-config, or another lsp related configuration.
 - [ ] Add jupyter notebook plugin.
 - [ ] Look into session persistance with [persistence.nvim](https://github.com/folke/persistence.nvim)
